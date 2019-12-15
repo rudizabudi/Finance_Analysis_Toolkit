@@ -1,0 +1,578 @@
+--> TotalBlack Cross Occurrences: -655.7465094327927
+--> Total gains: -655.75 MU 
+--> Average gain: -2.01 MU | StdDev: 11.46
+--> Average gain in percent: -6.52 % | StdDev: 50.37
+--> Average duration: 174.95 days | StdDev: 149.99
+
+* * * * * * * * * * * * * * * * * * 
+- - - - - - - - - - - - - - - - - - 
+* * * * * * * * * * * * * * * * * * 
+--> ADS.DE did a Black Cross on 2001-05-10. It lasted for 12 days. It gained -1.43 or -13.57 %.
+--> ADS.DE did a Black Cross on 2001-10-15. It lasted for 52 days. It gained -2.67 or -25.78 %.
+--> ADS.DE did a Black Cross on 2002-09-02. It lasted for 105 days. It gained -1.93 or -15.32 %.
+--> ADS.DE did a Black Cross on 2003-02-12. It lasted for 61 days. It gained -2.29 or -19.04 %.
+--> ADS.DE did a Black Cross on 2003-07-23. It lasted for 71 days. It gained -0.59 or -4.5 %.
+--> ADS.DE did a Black Cross on 2006-07-07. It lasted for 154 days. It gained -0.29 or -0.94 %.
+--> ADS.DE did a Black Cross on 2007-01-09. It lasted for 36 days. It gained -1.09 or -3.6 %.
+--> ADS.DE did a Black Cross on 2008-02-18. It lasted for 128 days. It gained 0.59 or 1.63 %.
+--> ADS.DE did a Black Cross on 2008-07-01. It lasted for 384 days. It gained 8.97 or 27.67 %.
+--> ADS.DE did a Black Cross on 2011-09-26. It lasted for 50 days. It gained -4.22 or -10.28 %.
+--> ADS.DE did a Black Cross on 2014-03-21. It lasted for 360 days. It gained 2.32 or 3.39 %.
+--> ADS.DE did a Black Cross on 2017-12-22. It lasted for 102 days. It gained -24.86 or -15.29 %.
+--> ADS.DE did a Black Cross on 2019-01-07. It lasted for 56 days. It gained -25.75 or -13.76 %.
+- - - - - - - - - - - - - - - - - - 
+--> ADS.DEBlack Cross Occurrences: 13
+--> ADS.DE Total gains: -53.22 MU 
+--> ADS.DE Average gain: -4.09 MU | StdDev: 9.56
+--> ADS.DE Average gain in percent: -6.87 % | StdDev: 12.93
+--> ADS.DE Average duration: 120.85 days | StdDev: 113.44
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> ALV.DE did a Black Cross on 2000-10-06. It lasted for 75 days. It gained 1.15 or 0.62 %.
+--> ALV.DE did a Black Cross on 2002-02-05. It lasted for 84 days. It gained -7.82 or -6.48 %.
+--> ALV.DE did a Black Cross on 2004-05-07. It lasted for 203 days. It gained -3.91 or -8.71 %.
+--> ALV.DE did a Black Cross on 2006-06-28. It lasted for 83 days. It gained -7.17 or -11.31 %.
+--> ALV.DE did a Black Cross on 2007-09-20. It lasted for 630 days. It gained 44.29 or 51.54 %.
+--> ALV.DE did a Black Cross on 2011-08-03. It lasted for 201 days. It gained -4.21 or -7.5 %.
+--> ALV.DE did a Black Cross on 2012-06-28. It lasted for 43 days. It gained -8.28 or -15.88 %.
+--> ALV.DE did a Black Cross on 2015-10-01. It lasted for 43 days. It gained -15.29 or -13.96 %.
+--> ALV.DE did a Black Cross on 2016-02-22. It lasted for 94 days. It gained -20.96 or -19.41 %.
+--> ALV.DE did a Black Cross on 2016-07-13. It lasted for 85 days. It gained -7.73 or -6.94 %.
+--> ALV.DE did a Black Cross on 2018-04-06. It lasted for 164 days. It gained -6.85 or -4.0 %.
+--> ALV.DE did a Black Cross on 2018-12-18. It lasted for 77 days. It gained -22.37 or -13.38 %.
+- - - - - - - - - - - - - - - - - - 
+--> ALV.DEBlack Cross Occurrences: 12
+--> ALV.DE Total gains: -59.16 MU 
+--> ALV.DE Average gain: -4.93 MU | StdDev: 16.24
+--> ALV.DE Average gain in percent: -4.62 % | StdDev: 17.72
+--> ALV.DE Average duration: 148.5 days | StdDev: 154.39
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> BAS.DE did a Black Cross on 2000-10-06. It lasted for 76 days. It gained -0.67 or -8.29 %.
+--> BAS.DE did a Black Cross on 2001-09-14. It lasted for 168 days. It gained -1.41 or -18.78 %.
+--> BAS.DE did a Black Cross on 2002-08-19. It lasted for 269 days. It gained 0.24 or 2.67 %.
+--> BAS.DE did a Black Cross on 2008-02-14. It lasted for 102 days. It gained -4.55 or -17.62 %.
+--> BAS.DE did a Black Cross on 2008-08-18. It lasted for 284 days. It gained 5.2 or 20.16 %.
+--> BAS.DE did a Black Cross on 2011-09-02. It lasted for 160 days. It gained -10.67 or -30.5 %.
+--> BAS.DE did a Black Cross on 2012-07-19. It lasted for 26 days. It gained -2.05 or -4.52 %.
+--> BAS.DE did a Black Cross on 2013-08-20. It lasted for 63 days. It gained -5.09 or -9.39 %.
+--> BAS.DE did a Black Cross on 2014-09-16. It lasted for 169 days. It gained -8.19 or -13.01 %.
+--> BAS.DE did a Black Cross on 2015-08-25. It lasted for 275 days. It gained -2.95 or -4.97 %.
+--> BAS.DE did a Black Cross on 2017-07-25. It lasted for 85 days. It gained -8.55 or -11.44 %.
+--> BAS.DE did a Black Cross on 2018-03-27. It lasted for 580 days. It gained 6.07 or 7.98 %.
+- - - - - - - - - - - - - - - - - - 
+--> BAS.DEBlack Cross Occurrences: 12
+--> BAS.DE Total gains: -32.62 MU 
+--> BAS.DE Average gain: -2.72 MU | StdDev: 4.93
+--> BAS.DE Average gain in percent: -7.31 % | StdDev: 12.69
+--> BAS.DE Average duration: 188.08 days | StdDev: 144.62
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> BAYN.DE did a Black Cross on 2001-05-08. It lasted for 325 days. It gained 4.52 or 16.24 %.
+--> BAYN.DE did a Black Cross on 2002-06-26. It lasted for 358 days. It gained 5.75 or 30.68 %.
+--> BAYN.DE did a Black Cross on 2004-05-10. It lasted for 22 days. It gained -1.4 or -10.17 %.
+--> BAYN.DE did a Black Cross on 2004-08-18. It lasted for 78 days. It gained -1.71 or -12.73 %.
+--> BAYN.DE did a Black Cross on 2008-03-10. It lasted for 109 days. It gained -6.05 or -18.74 %.
+--> BAYN.DE did a Black Cross on 2008-07-24. It lasted for 1 days. It gained -1.41 or -3.63 %.
+--> BAYN.DE did a Black Cross on 2008-08-13. It lasted for 16 days. It gained -0.44 or -1.14 %.
+--> BAYN.DE did a Black Cross on 2008-10-09. It lasted for 285 days. It gained 3.28 or 10.17 %.
+--> BAYN.DE did a Black Cross on 2009-08-10. It lasted for 46 days. It gained -6.56 or -23.4 %.
+--> BAYN.DE did a Black Cross on 2010-06-07. It lasted for 115 days. It gained -3.54 or -9.86 %.
+--> BAYN.DE did a Black Cross on 2011-08-15. It lasted for 171 days. It gained -6.39 or -17.47 %.
+--> BAYN.DE did a Black Cross on 2015-09-18. It lasted for 480 days. It gained 10.07 or 10.07 %.
+--> BAYN.DE did a Black Cross on 2017-12-18. It lasted for 617 days. It gained 31.47 or 31.97 %.
+- - - - - - - - - - - - - - - - - - 
+--> BAYN.DEBlack Cross Occurrences: 13
+--> BAYN.DE Total gains: 27.59 MU 
+--> BAYN.DE Average gain: 2.12 MU | StdDev: 9.76
+--> BAYN.DE Average gain in percent: 0.16 % | StdDev: 17.57
+--> BAYN.DE Average duration: 201.77 days | StdDev: 188.14
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> BEI.DE did a Black Cross on 2002-07-16. It lasted for 273 days. It gained 0.58 or 2.68 %.
+--> BEI.DE did a Black Cross on 2003-11-20. It lasted for 222 days. It gained -2.1 or -10.66 %.
+--> BEI.DE did a Black Cross on 2004-09-23. It lasted for 119 days. It gained -2.1 or -11.97 %.
+--> BEI.DE did a Black Cross on 2007-09-20. It lasted for 25 days. It gained -3.62 or -8.6 %.
+--> BEI.DE did a Black Cross on 2008-01-21. It lasted for 77 days. It gained -4.37 or -11.38 %.
+--> BEI.DE did a Black Cross on 2008-06-09. It lasted for 459 days. It gained 7.64 or 18.54 %.
+--> BEI.DE did a Black Cross on 2010-09-23. It lasted for 28 days. It gained -4.81 or -13.08 %.
+--> BEI.DE did a Black Cross on 2011-01-07. It lasted for 122 days. It gained -4.14 or -11.21 %.
+--> BEI.DE did a Black Cross on 2011-09-19. It lasted for 128 days. It gained -4.03 or -10.68 %.
+--> BEI.DE did a Black Cross on 2013-10-04. It lasted for 39 days. It gained -5.87 or -9.26 %.
+--> BEI.DE did a Black Cross on 2014-07-30. It lasted for 173 days. It gained -6.62 or -10.07 %.
+--> BEI.DE did a Black Cross on 2015-09-10. It lasted for 56 days. It gained -15.22 or -21.6 %.
+--> BEI.DE did a Black Cross on 2016-04-11. It lasted for 101 days. It gained -6.96 or -9.3 %.
+--> BEI.DE did a Black Cross on 2016-11-23. It lasted for 86 days. It gained -8.97 or -11.99 %.
+--> BEI.DE did a Black Cross on 2018-03-08. It lasted for 83 days. It gained -10.65 or -12.14 %.
+--> BEI.DE did a Black Cross on 2018-11-09. It lasted for 189 days. It gained -11.21 or -12.31 %.
+- - - - - - - - - - - - - - - - - - 
+--> BEI.DEBlack Cross Occurrences: 16
+--> BEI.DE Total gains: -82.45 MU 
+--> BEI.DE Average gain: -5.15 MU | StdDev: 5.06
+--> BEI.DE Average gain in percent: -8.94 % | StdDev: 8.39
+--> BEI.DE Average duration: 136.25 days | StdDev: 107.54
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> BMW.DE did a Black Cross on 2001-01-29. It lasted for 14 days. It gained -0.58 or -3.33 %.
+--> BMW.DE did a Black Cross on 2001-04-13. It lasted for 42 days. It gained -1.71 or -10.06 %.
+--> BMW.DE did a Black Cross on 2001-09-17. It lasted for 94 days. It gained -4.7 or -36.02 %.
+--> BMW.DE did a Black Cross on 2002-08-08. It lasted for 307 days. It gained 2.7 or 14.05 %.
+--> BMW.DE did a Black Cross on 2004-03-25. It lasted for 32 days. It gained -2.02 or -11.21 %.
+--> BMW.DE did a Black Cross on 2004-10-07. It lasted for 167 days. It gained -1.09 or -5.64 %.
+--> BMW.DE did a Black Cross on 2006-08-10. It lasted for 12 days. It gained -0.82 or -3.39 %.
+--> BMW.DE did a Black Cross on 2007-09-19. It lasted for 596 days. It gained 8.21 or 29.49 %.
+--> BMW.DE did a Black Cross on 2010-02-26. It lasted for 48 days. It gained -3.97 or -18.62 %.
+--> BMW.DE did a Black Cross on 2011-09-21. It lasted for 146 days. It gained -10.26 or -24.84 %.
+--> BMW.DE did a Black Cross on 2012-07-13. It lasted for 139 days. It gained -7.74 or -17.55 %.
+--> BMW.DE did a Black Cross on 2014-10-17. It lasted for 96 days. It gained -11.68 or -17.81 %.
+--> BMW.DE did a Black Cross on 2015-08-04. It lasted for 147 days. It gained -6.43 or -8.45 %.
+--> BMW.DE did a Black Cross on 2016-01-20. It lasted for 238 days. It gained -1.38 or -2.14 %.
+--> BMW.DE did a Black Cross on 2017-08-11. It lasted for 63 days. It gained -6.65 or -9.16 %.
+--> BMW.DE did a Black Cross on 2018-07-16. It lasted for 485 days. It gained 1.65 or 2.2 %.
+- - - - - - - - - - - - - - - - - - 
+--> BMW.DEBlack Cross Occurrences: 16
+--> BMW.DE Total gains: -46.46 MU 
+--> BMW.DE Average gain: -2.9 MU | StdDev: 4.86
+--> BMW.DE Average gain in percent: -7.66 % | StdDev: 14.71
+--> BMW.DE Average duration: 164.12 days | StdDev: 163.54
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> 1COV.DE did a Black Cross on 2017-08-08. It lasted for 52 days. It gained -5.13 or -8.19 %.
+--> 1COV.DE did a Black Cross on 2018-05-25. It lasted for 537 days. It gained 30.65 or 40.77 %.
+- - - - - - - - - - - - - - - - - - 
+--> 1COV.DEBlack Cross Occurrences: 2
+--> 1COV.DE Total gains: 25.52 MU 
+--> 1COV.DE Average gain: 12.76 MU | StdDev: 17.89
+--> 1COV.DE Average gain in percent: 16.29 % | StdDev: 24.48
+--> 1COV.DE Average duration: 294.5 days | StdDev: 242.5
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> DAI.DE did a Black Cross on 2000-10-06. It lasted for 189 days. It gained -1.78 or -7.27 %.
+--> DAI.DE did a Black Cross on 2001-09-18. It lasted for 181 days. It gained -8.83 or -49.57 %.
+--> DAI.DE did a Black Cross on 2002-08-02. It lasted for 357 days. It gained 4.52 or 21.26 %.
+--> DAI.DE did a Black Cross on 2004-09-08. It lasted for 155 days. It gained -0.29 or -1.48 %.
+--> DAI.DE did a Black Cross on 2005-04-19. It lasted for 83 days. It gained -2.02 or -11.4 %.
+--> DAI.DE did a Black Cross on 2006-06-14. It lasted for 156 days. It gained -6.07 or -27.23 %.
+--> DAI.DE did a Black Cross on 2008-01-17. It lasted for 511 days. It gained 15.36 or 45.63 %.
+--> DAI.DE did a Black Cross on 2011-07-12. It lasted for 1 days. It gained -1.02 or -2.88 %.
+--> DAI.DE did a Black Cross on 2011-07-15. It lasted for 17 days. It gained 2.91 or 8.01 %.
+--> DAI.DE did a Black Cross on 2011-08-02. It lasted for 205 days. It gained 0.33 or 1.02 %.
+--> DAI.DE did a Black Cross on 2012-07-02. It lasted for 63 days. It gained -1.7 or -6.53 %.
+--> DAI.DE did a Black Cross on 2012-10-16. It lasted for 87 days. It gained -3.41 or -12.4 %.
+--> DAI.DE did a Black Cross on 2014-09-05. It lasted for 123 days. It gained -1.13 or -2.21 %.
+--> DAI.DE did a Black Cross on 2015-09-03. It lasted for 385 days. It gained 4.16 or 7.19 %.
+--> DAI.DE did a Black Cross on 2017-07-20. It lasted for 97 days. It gained -4.75 or -8.37 %.
+--> DAI.DE did a Black Cross on 2018-05-30. It lasted for 329 days. It gained 4.15 or 7.05 %.
+--> DAI.DE did a Black Cross on 2019-07-17. It lasted for 118 days. It gained -7.79 or -16.89 %.
+- - - - - - - - - - - - - - - - - - 
+--> DAI.DEBlack Cross Occurrences: 17
+--> DAI.DE Total gains: -7.34 MU 
+--> DAI.DE Average gain: -0.43 MU | StdDev: 5.52
+--> DAI.DE Average gain in percent: -3.3 % | StdDev: 19.5
+--> DAI.DE Average duration: 179.82 days | StdDev: 135.33
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> DBK.DE did a Black Cross on 2001-03-26. It lasted for 304 days. It gained 1.32 or 3.89 %.
+--> DBK.DE did a Black Cross on 2002-02-21. It lasted for 61 days. It gained -3.21 or -11.59 %.
+--> DBK.DE did a Black Cross on 2002-07-24. It lasted for 313 days. It gained 1.13 or 4.63 %.
+--> DBK.DE did a Black Cross on 2004-07-28. It lasted for 140 days. It gained -3.42 or -12.65 %.
+--> DBK.DE did a Black Cross on 2007-08-30. It lasted for 629 days. It gained 19.83 or 40.44 %.
+--> DBK.DE did a Black Cross on 2010-02-17. It lasted for 42 days. It gained -6.49 or -22.03 %.
+--> DBK.DE did a Black Cross on 2010-06-28. It lasted for 37 days. It gained -5.12 or -16.34 %.
+--> DBK.DE did a Black Cross on 2010-10-12. It lasted for 135 days. It gained -4.11 or -14.36 %.
+--> DBK.DE did a Black Cross on 2011-05-02. It lasted for 303 days. It gained 5.98 or 18.94 %.
+--> DBK.DE did a Black Cross on 2012-06-25. It lasted for 119 days. It gained -5.45 or -26.43 %.
+--> DBK.DE did a Black Cross on 2013-08-26. It lasted for 15 days. It gained -0.68 or -2.61 %.
+--> DBK.DE did a Black Cross on 2014-04-01. It lasted for 332 days. It gained 1.02 or 4.01 %.
+--> DBK.DE did a Black Cross on 2015-09-28. It lasted for 442 days. It gained 5.19 or 25.72 %.
+--> DBK.DE did a Black Cross on 2017-08-17. It lasted for 125 days. It gained -2.46 or -17.93 %.
+--> DBK.DE did a Black Cross on 2018-02-20. It lasted for 631 days. It gained 6.38 or 48.95 %.
+- - - - - - - - - - - - - - - - - - 
+--> DBK.DEBlack Cross Occurrences: 15
+--> DBK.DE Total gains: 9.91 MU 
+--> DBK.DE Average gain: 0.66 MU | StdDev: 6.52
+--> DBK.DE Average gain in percent: 1.51 % | StdDev: 22.14
+--> DBK.DE Average duration: 241.87 days | StdDev: 196.43
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> DB1.DE did a Black Cross on 2002-10-08. It lasted for 210 days. It gained -4.98 or -22.58 %.
+--> DB1.DE did a Black Cross on 2003-12-23. It lasted for 52 days. It gained -4.62 or -17.28 %.
+--> DB1.DE did a Black Cross on 2004-06-07. It lasted for 199 days. It gained -0.54 or -1.95 %.
+--> DB1.DE did a Black Cross on 2007-07-02. It lasted for 178 days. It gained -33.27 or -58.48 %.
+--> DB1.DE did a Black Cross on 2008-04-24. It lasted for 403 days. It gained 15.46 or 25.09 %.
+--> DB1.DE did a Black Cross on 2010-01-25. It lasted for 105 days. It gained -3.3 or -9.11 %.
+--> DB1.DE did a Black Cross on 2010-06-09. It lasted for 62 days. It gained -2.82 or -7.55 %.
+--> DB1.DE did a Black Cross on 2010-08-30. It lasted for 147 days. It gained -6.46 or -17.96 %.
+--> DB1.DE did a Black Cross on 2011-08-15. It lasted for 200 days. It gained -1.42 or -3.93 %.
+--> DB1.DE did a Black Cross on 2012-06-18. It lasted for 184 days. It gained -4.87 or -15.01 %.
+--> DB1.DE did a Black Cross on 2014-05-05. It lasted for 67 days. It gained -1.48 or -3.26 %.
+--> DB1.DE did a Black Cross on 2014-08-15. It lasted for 112 days. It gained -5.55 or -11.96 %.
+--> DB1.DE did a Black Cross on 2016-01-28. It lasted for 147 days. It gained -6.59 or -9.47 %.
+--> DB1.DE did a Black Cross on 2016-08-19. It lasted for 3 days. It gained 1.73 or 2.43 %.
+--> DB1.DE did a Black Cross on 2016-08-31. It lasted for 14 days. It gained 0.68 or 1.02 %.
+--> DB1.DE did a Black Cross on 2016-09-22. It lasted for 105 days. It gained -2.42 or -3.52 %.
+--> DB1.DE did a Black Cross on 2018-11-29. It lasted for 118 days. It gained -2.49 or -2.29 %.
+--> DB1.DE did a Black Cross on 2019-04-15. It lasted for 1 days. It gained -4.5 or -4.07 %.
+- - - - - - - - - - - - - - - - - - 
+--> DB1.DEBlack Cross Occurrences: 18
+--> DB1.DE Total gains: -67.44 MU 
+--> DB1.DE Average gain: -3.75 MU | StdDev: 8.62
+--> DB1.DE Average gain in percent: -8.88 % | StdDev: 15.69
+--> DB1.DE Average duration: 128.17 days | StdDev: 93.97
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> LHA.DE did a Black Cross on 2000-10-20. It lasted for 74 days. It gained -2.7 or -21.0 %.
+--> LHA.DE did a Black Cross on 2001-03-13. It lasted for 342 days. It gained 2.79 or 21.15 %.
+--> LHA.DE did a Black Cross on 2002-06-28. It lasted for 360 days. It gained 2.27 or 26.02 %.
+--> LHA.DE did a Black Cross on 2004-05-21. It lasted for 250 days. It gained 1.17 or 15.03 %.
+--> LHA.DE did a Black Cross on 2005-06-17. It lasted for 56 days. It gained -0.44 or -6.39 %.
+--> LHA.DE did a Black Cross on 2007-08-22. It lasted for 714 days. It gained 6.2 or 42.6 %.
+--> LHA.DE did a Black Cross on 2010-06-21. It lasted for 44 days. It gained -1.06 or -11.04 %.
+--> LHA.DE did a Black Cross on 2011-04-26. It lasted for 31 days. It gained -0.44 or -3.59 %.
+--> LHA.DE did a Black Cross on 2011-06-13. It lasted for 431 days. It gained 3.18 or 26.69 %.
+--> LHA.DE did a Black Cross on 2013-09-02. It lasted for 116 days. It gained -1.48 or -12.3 %.
+--> LHA.DE did a Black Cross on 2014-07-28. It lasted for 225 days. It gained 1.23 or 9.51 %.
+--> LHA.DE did a Black Cross on 2015-04-09. It lasted for 214 days. It gained -0.67 or -5.83 %.
+--> LHA.DE did a Black Cross on 2016-06-10. It lasted for 188 days. It gained -1.27 or -12.0 %.
+--> LHA.DE did a Black Cross on 2018-05-15. It lasted for 294 days. It gained 2.42 or 10.03 %.
+- - - - - - - - - - - - - - - - - - 
+--> LHA.DEBlack Cross Occurrences: 14
+--> LHA.DE Total gains: 11.2 MU 
+--> LHA.DE Average gain: 0.8 MU | StdDev: 2.3
+--> LHA.DE Average gain in percent: 5.63 % | StdDev: 18.07
+--> LHA.DE Average duration: 238.5 days | StdDev: 179.57
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> DPW.DE did a Black Cross on 2002-02-05. It lasted for 87 days. It gained 0.22 or 2.85 %.
+--> DPW.DE did a Black Cross on 2002-05-30. It lasted for 351 days. It gained 1.66 or 20.78 %.
+--> DPW.DE did a Black Cross on 2004-07-13. It lasted for 197 days. It gained -0.21 or -2.26 %.
+--> DPW.DE did a Black Cross on 2005-11-25. It lasted for 41 days. It gained -1.27 or -11.63 %.
+--> DPW.DE did a Black Cross on 2006-08-08. It lasted for 85 days. It gained -1.68 or -14.87 %.
+--> DPW.DE did a Black Cross on 2007-08-17. It lasted for 144 days. It gained -2.26 or -17.98 %.
+--> DPW.DE did a Black Cross on 2008-03-17. It lasted for 473 days. It gained 5.72 or 47.09 %.
+--> DPW.DE did a Black Cross on 2010-06-11. It lasted for 35 days. It gained -0.4 or -4.53 %.
+--> DPW.DE did a Black Cross on 2011-04-01. It lasted for 62 days. It gained -0.39 or -4.2 %.
+--> DPW.DE did a Black Cross on 2011-08-10. It lasted for 169 days. It gained -1.74 or -22.18 %.
+--> DPW.DE did a Black Cross on 2014-08-18. It lasted for 140 days. It gained -1.92 or -9.48 %.
+--> DPW.DE did a Black Cross on 2015-08-12. It lasted for 279 days. It gained -0.33 or -1.44 %.
+--> DPW.DE did a Black Cross on 2018-04-03. It lasted for 385 days. It gained 2.65 or 8.13 %.
+- - - - - - - - - - - - - - - - - - 
+--> DPW.DEBlack Cross Occurrences: 13
+--> DPW.DE Total gains: 0.06 MU 
+--> DPW.DE Average gain: 0.0 MU | StdDev: 2.13
+--> DPW.DE Average gain in percent: -0.75 % | StdDev: 17.59
+--> DPW.DE Average duration: 188.31 days | StdDev: 136.23
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> DTE.DE did a Black Cross on 2000-10-06. It lasted for 810 days. It gained 9.18 or 64.95 %.
+--> DTE.DE did a Black Cross on 2003-03-28. It lasted for 54 days. It gained -0.66 or -16.25 %.
+--> DTE.DE did a Black Cross on 2004-05-26. It lasted for 148 days. It gained -0.6 or -11.65 %.
+--> DTE.DE did a Black Cross on 2005-05-06. It lasted for 81 days. It gained -0.54 or -8.95 %.
+--> DTE.DE did a Black Cross on 2005-10-27. It lasted for 383 days. It gained 0.14 or 2.43 %.
+--> DTE.DE did a Black Cross on 2007-05-02. It lasted for 23 days. It gained -0.32 or -5.6 %.
+--> DTE.DE did a Black Cross on 2008-03-06. It lasted for 244 days. It gained -0.18 or -3.28 %.
+--> DTE.DE did a Black Cross on 2009-01-26. It lasted for 228 days. It gained -0.12 or -2.35 %.
+--> DTE.DE did a Black Cross on 2011-01-21. It lasted for 70 days. It gained -0.66 or -11.62 %.
+--> DTE.DE did a Black Cross on 2011-09-12. It lasted for 308 days. It gained -1.21 or -24.86 %.
+--> DTE.DE did a Black Cross on 2012-12-14. It lasted for 160 days. It gained -0.93 or -16.42 %.
+--> DTE.DE did a Black Cross on 2014-09-15. It lasted for 72 days. It gained -1.46 or -17.0 %.
+--> DTE.DE did a Black Cross on 2015-10-13. It lasted for 37 days. It gained -1.74 or -15.29 %.
+--> DTE.DE did a Black Cross on 2016-02-10. It lasted for 153 days. It gained -1.21 or -10.83 %.
+--> DTE.DE did a Black Cross on 2016-11-02. It lasted for 50 days. It gained -1.29 or -10.87 %.
+--> DTE.DE did a Black Cross on 2017-12-04. It lasted for 242 days. It gained 0.3 or 2.13 %.
+- - - - - - - - - - - - - - - - - - 
+--> DTE.DEBlack Cross Occurrences: 16
+--> DTE.DE Total gains: -1.31 MU 
+--> DTE.DE Average gain: -0.08 MU | StdDev: 2.46
+--> DTE.DE Average gain in percent: -5.34 % | StdDev: 19.49
+--> DTE.DE Average duration: 191.44 days | StdDev: 189.78
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> FME.DE did a Black Cross on 2001-01-19. It lasted for 54 days. It gained -135.88 or -846.18 %.
+--> FME.DE did a Black Cross on 2001-05-23. It lasted for 99 days. It gained -1.72 or -10.51 %.
+--> FME.DE did a Black Cross on 2001-10-17. It lasted for 467 days. It gained 7.74 or 45.44 %.
+--> FME.DE did a Black Cross on 2005-01-10. It lasted for 45 days. It gained -2.13 or -15.15 %.
+--> FME.DE did a Black Cross on 2008-02-26. It lasted for 127 days. It gained -0.04 or -0.13 %.
+--> FME.DE did a Black Cross on 2008-12-09. It lasted for 244 days. It gained 1.65 or 5.81 %.
+--> FME.DE did a Black Cross on 2012-12-13. It lasted for 196 days. It gained -1.65 or -3.43 %.
+--> FME.DE did a Black Cross on 2013-07-05. It lasted for 200 days. It gained -5.1 or -11.64 %.
+--> FME.DE did a Black Cross on 2014-04-30. It lasted for 105 days. It gained -2.8 or -6.19 %.
+--> FME.DE did a Black Cross on 2015-09-30. It lasted for 44 days. It gained -9.11 or -13.95 %.
+--> FME.DE did a Black Cross on 2016-06-28. It lasted for 22 days. It gained -3.85 or -5.3 %.
+--> FME.DE did a Black Cross on 2016-11-04. It lasted for 95 days. It gained -2.31 or -3.32 %.
+--> FME.DE did a Black Cross on 2017-03-07. It lasted for 34 days. It gained -0.11 or -0.15 %.
+--> FME.DE did a Black Cross on 2017-09-22. It lasted for 20 days. It gained 0.56 or 0.72 %.
+--> FME.DE did a Black Cross on 2018-04-27. It lasted for 40 days. It gained -3.82 or -4.76 %.
+--> FME.DE did a Black Cross on 2018-10-26. It lasted for 236 days. It gained -2.26 or -3.32 %.
+- - - - - - - - - - - - - - - - - - 
+--> FME.DEBlack Cross Occurrences: 16
+--> FME.DE Total gains: -160.82 MU 
+--> FME.DE Average gain: -10.05 MU | StdDev: 32.67
+--> FME.DE Average gain in percent: -54.5 % | StdDev: 204.84
+--> FME.DE Average duration: 126.75 days | StdDev: 114.89
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> HEI.DE did a Black Cross on 2000-10-06. It lasted for 153 days. It gained -4.63 or -12.03 %.
+--> HEI.DE did a Black Cross on 2001-06-25. It lasted for 200 days. It gained -2.95 or -8.22 %.
+--> HEI.DE did a Black Cross on 2002-06-25. It lasted for 441 days. It gained 8.63 or 26.52 %.
+--> HEI.DE did a Black Cross on 2007-08-13. It lasted for 247 days. It gained -3.43 or -4.28 %.
+--> HEI.DE did a Black Cross on 2008-06-27. It lasted for 420 days. It gained 44.04 or 62.16 %.
+--> HEI.DE did a Black Cross on 2010-07-01. It lasted for 167 days. It gained -8.22 or -26.13 %.
+--> HEI.DE did a Black Cross on 2011-07-18. It lasted for 218 days. It gained -0.13 or -0.37 %.
+--> HEI.DE did a Black Cross on 2012-07-18. It lasted for 22 days. It gained -2.54 or -7.93 %.
+--> HEI.DE did a Black Cross on 2014-08-27. It lasted for 146 days. It gained -2.97 or -5.87 %.
+--> HEI.DE did a Black Cross on 2015-09-22. It lasted for 91 days. It gained -9.38 or -16.97 %.
+--> HEI.DE did a Black Cross on 2016-02-10. It lasted for 61 days. It gained -10.55 or -19.2 %.
+--> HEI.DE did a Black Cross on 2017-06-14. It lasted for 149 days. It gained -4.31 or -5.39 %.
+--> HEI.DE did a Black Cross on 2018-03-19. It lasted for 386 days. It gained 9.3 or 12.25 %.
+--> HEI.DE did a Black Cross on 2019-10-01. It lasted for 43 days. It gained 1.1 or 1.67 %.
+- - - - - - - - - - - - - - - - - - 
+--> HEI.DEBlack Cross Occurrences: 14
+--> HEI.DE Total gains: 13.96 MU 
+--> HEI.DE Average gain: 1.0 MU | StdDev: 13.17
+--> HEI.DE Average gain in percent: -0.27 % | StdDev: 21.41
+--> HEI.DE Average duration: 196.0 days | StdDev: 130.86
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> HEN3.DE did a Black Cross on 2004-08-27. It lasted for 157 days. It gained -2.14 or -15.23 %.
+--> HEN3.DE did a Black Cross on 2007-09-26. It lasted for 100 days. It gained -1.11 or -3.83 %.
+--> HEN3.DE did a Black Cross on 2008-01-16. It lasted for 520 days. It gained 8.07 or 29.61 %.
+--> HEN3.DE did a Black Cross on 2011-08-31. It lasted for 153 days. It gained -5.24 or -14.57 %.
+--> HEN3.DE did a Black Cross on 2014-05-02. It lasted for 17 days. It gained -6.16 or -8.55 %.
+--> HEN3.DE did a Black Cross on 2014-10-02. It lasted for 70 days. It gained -11.57 or -16.29 %.
+--> HEN3.DE did a Black Cross on 2015-09-14. It lasted for 113 days. It gained -6.71 or -7.94 %.
+--> HEN3.DE did a Black Cross on 2016-01-12. It lasted for 1 days. It gained -0.84 or -0.95 %.
+--> HEN3.DE did a Black Cross on 2016-01-14. It lasted for 110 days. It gained -6.3 or -7.22 %.
+--> HEN3.DE did a Black Cross on 2017-09-11. It lasted for 336 days. It gained 7.85 or 6.87 %.
+--> HEN3.DE did a Black Cross on 2018-10-09. It lasted for 329 days. It gained 4.67 or 4.83 %.
+- - - - - - - - - - - - - - - - - - 
+--> HEN3.DEBlack Cross Occurrences: 11
+--> HEN3.DE Total gains: -19.49 MU 
+--> HEN3.DE Average gain: -1.77 MU | StdDev: 6.06
+--> HEN3.DE Average gain in percent: -3.02 % | StdDev: 12.65
+--> HEN3.DE Average duration: 173.27 days | StdDev: 150.57
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> IFX.DE did a Black Cross on 2000-12-15. It lasted for 440 days. It gained 12.3 or 37.37 %.
+--> IFX.DE did a Black Cross on 2002-05-27. It lasted for 392 days. It gained 8.04 or 55.24 %.
+--> IFX.DE did a Black Cross on 2004-03-22. It lasted for 493 days. It gained 2.17 or 25.64 %.
+--> IFX.DE did a Black Cross on 2007-10-01. It lasted for 624 days. It gained 7.36 or 79.12 %.
+--> IFX.DE did a Black Cross on 2011-08-11. It lasted for 194 days. It gained -1.44 or -26.97 %.
+--> IFX.DE did a Black Cross on 2012-06-27. It lasted for 205 days. It gained -1.33 or -28.26 %.
+--> IFX.DE did a Black Cross on 2014-10-20. It lasted for 100 days. It gained -2.53 or -38.13 %.
+--> IFX.DE did a Black Cross on 2015-09-07. It lasted for 80 days. It gained -3.16 or -34.2 %.
+--> IFX.DE did a Black Cross on 2018-08-09. It lasted for 245 days. It gained 2.13 or 9.56 %.
+--> IFX.DE did a Black Cross on 2019-06-06. It lasted for 168 days. It gained -3.98 or -26.74 %.
+- - - - - - - - - - - - - - - - - - 
+--> IFX.DEBlack Cross Occurrences: 10
+--> IFX.DE Total gains: 19.56 MU 
+--> IFX.DE Average gain: 1.96 MU | StdDev: 5.26
+--> IFX.DE Average gain in percent: 5.26 % | StdDev: 40.06
+--> IFX.DE Average duration: 294.1 days | StdDev: 172.93
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> LIN.DE did a Black Cross on 2001-05-08. It lasted for 29 days. It gained -1.52 or -6.29 %.
+--> LIN.DE did a Black Cross on 2001-08-14. It lasted for 181 days. It gained -1.88 or -7.98 %.
+--> LIN.DE did a Black Cross on 2002-08-12. It lasted for 330 days. It gained 4.43 or 18.76 %.
+--> LIN.DE did a Black Cross on 2006-07-17. It lasted for 31 days. It gained -4.38 or -11.33 %.
+--> LIN.DE did a Black Cross on 2008-03-20. It lasted for 20 days. It gained -2.32 or -4.02 %.
+--> LIN.DE did a Black Cross on 2008-08-27. It lasted for 300 days. It gained 15.61 or 28.56 %.
+--> LIN.DE did a Black Cross on 2011-09-15. It lasted for 123 days. It gained -12.09 or -16.2 %.
+--> LIN.DE did a Black Cross on 2014-04-07. It lasted for 7 days. It gained 0.51 or 0.45 %.
+--> LIN.DE did a Black Cross on 2015-09-07. It lasted for 344 days. It gained -7.82 or -6.11 %.
+--> LIN.DE did a Black Cross on 2019-03-15. It lasted for 56 days. It gained -4.53 or -2.98 %.
+- - - - - - - - - - - - - - - - - - 
+--> LIN.DEBlack Cross Occurrences: 10
+--> LIN.DE Total gains: -13.99 MU 
+--> LIN.DE Average gain: -1.4 MU | StdDev: 7.09
+--> LIN.DE Average gain in percent: -0.71 % | StdDev: 13.11
+--> LIN.DE Average duration: 142.1 days | StdDev: 129.84
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> MRK.DE did a Black Cross on 2001-05-16. It lasted for 111 days. It gained -0.39 or -3.61 %.
+--> MRK.DE did a Black Cross on 2001-09-25. It lasted for 477 days. It gained 2.34 or 23.3 %.
+--> MRK.DE did a Black Cross on 2006-07-14. It lasted for 89 days. It gained -5.65 or -25.96 %.
+--> MRK.DE did a Black Cross on 2007-10-01. It lasted for 240 days. It gained -4.19 or -14.54 %.
+--> MRK.DE did a Black Cross on 2008-08-08. It lasted for 285 days. It gained 2.16 or 7.77 %.
+--> MRK.DE did a Black Cross on 2009-12-17. It lasted for 230 days. It gained -2.64 or -10.51 %.
+--> MRK.DE did a Black Cross on 2010-11-19. It lasted for 116 days. It gained -1.81 or -7.56 %.
+--> MRK.DE did a Black Cross on 2011-09-21. It lasted for 85 days. It gained -6.2 or -24.56 %.
+--> MRK.DE did a Black Cross on 2014-04-01. It lasted for 56 days. It gained -4.51 or -8.27 %.
+--> MRK.DE did a Black Cross on 2015-08-28. It lasted for 286 days. It gained -5.97 or -7.48 %.
+--> MRK.DE did a Black Cross on 2017-08-18. It lasted for 347 days. It gained 1.73 or 1.96 %.
+--> MRK.DE did a Black Cross on 2019-06-26. It lasted for 57 days. It gained -2.92 or -3.16 %.
+- - - - - - - - - - - - - - - - - - 
+--> MRK.DEBlack Cross Occurrences: 12
+--> MRK.DE Total gains: -28.05 MU 
+--> MRK.DE Average gain: -2.34 MU | StdDev: 3.03
+--> MRK.DE Average gain in percent: -6.05 % | StdDev: 12.82
+--> MRK.DE Average duration: 198.25 days | StdDev: 128.17
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> MTX.DE did a Black Cross on 2007-11-07. It lasted for 483 days. It gained 14.97 or 47.06 %.
+--> MTX.DE did a Black Cross on 2010-11-11. It lasted for 40 days. It gained -5.54 or -15.29 %.
+--> MTX.DE did a Black Cross on 2011-09-06. It lasted for 148 days. It gained -9.07 or -24.0 %.
+--> MTX.DE did a Black Cross on 2013-08-27. It lasted for 281 days. It gained -0.36 or -0.58 %.
+--> MTX.DE did a Black Cross on 2014-08-07. It lasted for 70 days. It gained -0.43 or -0.74 %.
+--> MTX.DE did a Black Cross on 2015-09-14. It lasted for 94 days. It gained -10.38 or -13.83 %.
+--> MTX.DE did a Black Cross on 2016-02-25. It lasted for 63 days. It gained -4.04 or -5.29 %.
+--> MTX.DE did a Black Cross on 2018-04-11. It lasted for 26 days. It gained -16.57 or -12.44 %.
+- - - - - - - - - - - - - - - - - - 
+--> MTX.DEBlack Cross Occurrences: 8
+--> MTX.DE Total gains: -31.42 MU 
+--> MTX.DE Average gain: -3.93 MU | StdDev: 8.75
+--> MTX.DE Average gain in percent: -3.14 % | StdDev: 20.37
+--> MTX.DE Average duration: 150.62 days | StdDev: 146.9
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> MUV2.DE did a Black Cross on 2004-10-07. It lasted for 81 days. It gained -4.83 or -11.57 %.
+--> MUV2.DE did a Black Cross on 2006-07-04. It lasted for 58 days. It gained -5.76 or -9.89 %.
+--> MUV2.DE did a Black Cross on 2007-12-12. It lasted for 167 days. It gained 4.58 or 6.19 %.
+--> MUV2.DE did a Black Cross on 2008-07-04. It lasted for 215 days. It gained 2.23 or 3.5 %.
+--> MUV2.DE did a Black Cross on 2009-02-24. It lasted for 111 days. It gained -3.7 or -6.83 %.
+--> MUV2.DE did a Black Cross on 2009-07-13. It lasted for 17 days. It gained -5.72 or -9.54 %.
+--> MUV2.DE did a Black Cross on 2010-06-29. It lasted for 45 days. It gained -1.67 or -2.46 %.
+--> MUV2.DE did a Black Cross on 2010-08-27. It lasted for 80 days. It gained -8.15 or -12.36 %.
+--> MUV2.DE did a Black Cross on 2011-07-01. It lasted for 224 days. It gained 0.31 or 0.42 %.
+--> MUV2.DE did a Black Cross on 2014-09-30. It lasted for 73 days. It gained -2.96 or -2.36 %.
+--> MUV2.DE did a Black Cross on 2015-07-24. It lasted for 123 days. It gained -10.75 or -7.58 %.
+--> MUV2.DE did a Black Cross on 2016-06-01. It lasted for 133 days. It gained -1.75 or -1.2 %.
+- - - - - - - - - - - - - - - - - - 
+--> MUV2.DEBlack Cross Occurrences: 12
+--> MUV2.DE Total gains: -38.16 MU 
+--> MUV2.DE Average gain: -3.18 MU | StdDev: 4.13
+--> MUV2.DE Average gain in percent: -4.47 % | StdDev: 5.8
+--> MUV2.DE Average duration: 110.58 days | StdDev: 62.35
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> RWE.DE did a Black Cross on 2008-03-13. It lasted for 459 days. It gained 8.34 or 17.96 %.
+--> RWE.DE did a Black Cross on 2010-06-14. It lasted for 633 days. It gained 13.18 or 33.11 %.
+--> RWE.DE did a Black Cross on 2013-01-07. It lasted for 303 days. It gained 0.89 or 3.56 %.
+--> RWE.DE did a Black Cross on 2014-11-17. It lasted for 560 days. It gained 12.31 or 51.95 %.
+--> RWE.DE did a Black Cross on 2016-12-08. It lasted for 118 days. It gained -4.17 or -39.49 %.
+--> RWE.DE did a Black Cross on 2018-01-22. It lasted for 98 days. It gained -2.55 or -15.27 %.
+--> RWE.DE did a Black Cross on 2018-11-09. It lasted for 97 days. It gained -3.75 or -20.82 %.
+- - - - - - - - - - - - - - - - - - 
+--> RWE.DEBlack Cross Occurrences: 7
+--> RWE.DE Total gains: 24.26 MU 
+--> RWE.DE Average gain: 3.47 MU | StdDev: 7.07
+--> RWE.DE Average gain in percent: 4.43 % | StdDev: 29.81
+--> RWE.DE Average duration: 324.0 days | StdDev: 212.09
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> SAP.DE did a Black Cross on 2000-11-23. It lasted for 202 days. It gained -4.88 or -18.88 %.
+--> SAP.DE did a Black Cross on 2002-10-08. It lasted for 122 days. It gained -7.6 or -96.26 %.
+--> SAP.DE did a Black Cross on 2004-08-24. It lasted for 71 days. It gained -2.96 or -12.8 %.
+--> SAP.DE did a Black Cross on 2005-02-04. It lasted for 124 days. It gained -4.26 or -18.34 %.
+--> SAP.DE did a Black Cross on 2006-08-01. It lasted for 160 days. It gained -5.61 or -19.26 %.
+--> SAP.DE did a Black Cross on 2007-02-02. It lasted for 173 days. It gained -4.34 or -14.81 %.
+--> SAP.DE did a Black Cross on 2007-12-10. It lasted for 224 days. It gained 0.21 or 0.72 %.
+--> SAP.DE did a Black Cross on 2008-11-04. It lasted for 212 days. It gained -1.14 or -4.58 %.
+--> SAP.DE did a Black Cross on 2011-08-22. It lasted for 98 days. It gained -7.43 or -24.4 %.
+--> SAP.DE did a Black Cross on 2013-07-11. It lasted for 154 days. It gained -1.68 or -3.25 %.
+--> SAP.DE did a Black Cross on 2014-03-26. It lasted for 27 days. It gained -0.38 or -0.73 %.
+--> SAP.DE did a Black Cross on 2014-04-28. It lasted for 92 days. It gained -3.99 or -7.71 %.
+--> SAP.DE did a Black Cross on 2014-10-31. It lasted for 94 days. It gained -4.14 or -8.22 %.
+--> SAP.DE did a Black Cross on 2015-09-23. It lasted for 55 days. It gained -16.33 or -30.61 %.
+--> SAP.DE did a Black Cross on 2018-02-08. It lasted for 117 days. It gained -15.92 or -19.47 %.
+--> SAP.DE did a Black Cross on 2018-12-05. It lasted for 126 days. It gained -9.27 or -10.4 %.
+- - - - - - - - - - - - - - - - - - 
+--> SAP.DEBlack Cross Occurrences: 16
+--> SAP.DE Total gains: -89.71 MU 
+--> SAP.DE Average gain: -5.61 MU | StdDev: 4.71
+--> SAP.DE Average gain in percent: -18.06 % | StdDev: 21.9
+--> SAP.DE Average duration: 128.19 days | StdDev: 54.65
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> SIE.DE did a Black Cross on 2000-10-26. It lasted for 445 days. It gained 38.16 or 48.29 %.
+--> SIE.DE did a Black Cross on 2002-07-02. It lasted for 314 days. It gained 7.4 or 22.3 %.
+--> SIE.DE did a Black Cross on 2004-06-04. It lasted for 154 days. It gained -1.36 or -3.82 %.
+--> SIE.DE did a Black Cross on 2005-05-24. It lasted for 49 days. It gained -2.03 or -5.54 %.
+--> SIE.DE did a Black Cross on 2006-06-28. It lasted for 146 days. It gained -6.39 or -15.24 %.
+--> SIE.DE did a Black Cross on 2008-02-18. It lasted for 476 days. It gained 22.4 or 37.94 %.
+--> SIE.DE did a Black Cross on 2011-08-08. It lasted for 220 days. It gained -6.77 or -12.77 %.
+--> SIE.DE did a Black Cross on 2012-05-31. It lasted for 99 days. It gained -8.28 or -16.34 %.
+--> SIE.DE did a Black Cross on 2014-08-13. It lasted for 168 days. It gained -6.19 or -8.08 %.
+--> SIE.DE did a Black Cross on 2015-08-04. It lasted for 240 days. It gained 1.49 or 1.74 %.
+--> SIE.DE did a Black Cross on 2017-08-17. It lasted for 308 days. It gained -6.45 or -6.2 %.
+--> SIE.DE did a Black Cross on 2018-10-02. It lasted for 219 days. It gained -1.95 or -1.89 %.
+--> SIE.DE did a Black Cross on 2019-08-21. It lasted for 82 days. It gained -23.42 or -26.28 %.
+- - - - - - - - - - - - - - - - - - 
+--> SIE.DEBlack Cross Occurrences: 13
+--> SIE.DE Total gains: 6.63 MU 
+--> SIE.DE Average gain: 0.51 MU | StdDev: 14.69
+--> SIE.DE Average gain in percent: 1.08 % | StdDev: 21.05
+--> SIE.DE Average duration: 224.62 days | StdDev: 126.59
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> VOW3.DE did a Black Cross on 2008-10-17. It lasted for 241 days. It gained 18.46 or 31.39 %.
+--> VOW3.DE did a Black Cross on 2010-03-02. It lasted for 36 days. It gained -8.24 or -17.09 %.
+--> VOW3.DE did a Black Cross on 2011-09-19. It lasted for 91 days. It gained -5.36 or -5.93 %.
+--> VOW3.DE did a Black Cross on 2012-01-10. It lasted for 1 days. It gained -0.5 or -0.48 %.
+--> VOW3.DE did a Black Cross on 2012-01-13. It lasted for 7 days. It gained -7.06 or -6.75 %.
+--> VOW3.DE did a Black Cross on 2012-01-23. It lasted for 1 days. It gained -1.41 or -1.26 %.
+--> VOW3.DE did a Black Cross on 2013-05-06. It lasted for 53 days. It gained 1.26 or 0.92 %.
+--> VOW3.DE did a Black Cross on 2014-08-07. It lasted for 165 days. It gained -23.12 or -15.57 %.
+--> VOW3.DE did a Black Cross on 2015-08-10. It lasted for 291 days. It gained 47.45 or 27.32 %.
+--> VOW3.DE did a Black Cross on 2017-08-11. It lasted for 81 days. It gained -26.86 or -22.27 %.
+--> VOW3.DE did a Black Cross on 2018-07-11. It lasted for 251 days. It gained -4.91 or -3.56 %.
+- - - - - - - - - - - - - - - - - - 
+--> VOW3.DEBlack Cross Occurrences: 11
+--> VOW3.DE Total gains: -10.29 MU 
+--> VOW3.DE Average gain: -0.94 MU | StdDev: 19.1
+--> VOW3.DE Average gain in percent: -1.21 % | StdDev: 16.07
+--> VOW3.DE Average duration: 110.73 days | StdDev: 103.19
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> VNA.DE did a Black Cross on 2016-02-10. It lasted for 42 days. It gained -3.92 or -16.57 %.
+--> VNA.DE did a Black Cross on 2016-12-02. It lasted for 129 days. It gained -4.04 or -15.07 %.
+- - - - - - - - - - - - - - - - - - 
+--> VNA.DEBlack Cross Occurrences: 2
+--> VNA.DE Total gains: -7.97 MU 
+--> VNA.DE Average gain: -3.98 MU | StdDev: 0.06
+--> VNA.DE Average gain in percent: -15.82 % | StdDev: 0.75
+--> VNA.DE Average duration: 85.5 days | StdDev: 43.5
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> WDI.DE did a Black Cross on 2008-10-13. It lasted for 206 days. It gained -1.12 or -23.29 %.
+--> WDI.DE did a Black Cross on 2010-04-16. It lasted for 151 days. It gained -2.07 or -28.79 %.
+--> WDI.DE did a Black Cross on 2011-09-15. It lasted for 105 days. It gained -0.83 or -7.41 %.
+--> WDI.DE did a Black Cross on 2014-08-19. It lasted for 108 days. It gained -7.51 or -26.6 %.
+--> WDI.DE did a Black Cross on 2015-07-31. It lasted for 73 days. It gained -6.34 or -17.73 %.
+--> WDI.DE did a Black Cross on 2016-03-18. It lasted for 161 days. It gained -10.5 or -32.51 %.
+--> WDI.DE did a Black Cross on 2018-12-28. It lasted for 181 days. It gained -16.17 or -12.19 %.
+- - - - - - - - - - - - - - - - - - 
+--> WDI.DEBlack Cross Occurrences: 7
+--> WDI.DE Total gains: -44.55 MU 
+--> WDI.DE Average gain: -6.36 MU | StdDev: 5.23
+--> WDI.DE Average gain in percent: -21.22 % | StdDev: 8.47
+--> WDI.DE Average duration: 140.71 days | StdDev: 43.64
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 

@@ -1,0 +1,18 @@
+--> Golden Cross on 2002-01-14. It lasted for 169 days. It gained -7.69 or -18.81 %.
+--> Golden Cross on 2003-05-12. It lasted for 389 days. It gained 9.9 or 38.37 %.
+--> Golden Cross on 2004-11-05. It lasted for 200 days. It gained -0.42 or -1.13 %.
+--> Golden Cross on 2005-07-12. It lasted for 351 days. It gained 3.26 or 8.44 %.
+--> Golden Cross on 2006-11-21. It lasted for 454 days. It gained 10.74 or 22.24 %.
+--> Golden Cross on 2009-06-08. It lasted for 791 days. It gained 16.37 or 44.67 %.
+--> Golden Cross on 2012-03-15. It lasted for 77 days. It gained -9.12 or -15.26 %.
+--> Golden Cross on 2012-09-07. It lasted for 705 days. It gained 17.59 or 29.85 %.
+--> Golden Cross on 2015-01-28. It lasted for 188 days. It gained 3.12 or 3.78 %.
+--> Golden Cross on 2016-03-31. It lasted for 504 days. It gained 19.62 or 23.26 %.
+--> Golden Cross on 2018-06-21. It lasted for 103 days. It gained -7.08 or -6.41 %.
+--> Golden Cross on 2019-05-09. It lasted for 104 days. It gained -16.16 or -15.35 %.
+- - - - - - - - - - - - - - - - - - 
+--> Golden Cross Occurrence: 12
+--> Total gains: 40.0 MU 
+--> Average gain: 3.34 MU | StdDev: 11.24
+--> Average gain in percent: 9.47 % | StdDev: 20.95
+--> Average duration: 336.0 days | StdDev: 229.0

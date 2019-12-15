@@ -1,0 +1,587 @@
+--> TotalGolden Cross Occurrences: -714.9919079542162
+--> Total gains: -714.99 MU 
+--> Average gain: -2.13 MU | StdDev: 26.79
+--> Average gain in percent: 7.24 % | StdDev: 46.13
+--> Average duration: -163.32 days | StdDev: 1717.32
+
+* * * * * * * * * * * * * * * * * * 
+- - - - - - - - - - - - - - - - - - 
+* * * * * * * * * * * * * * * * * * 
+--> ADS.DE did a Golden Cross on 2001-05-22. It lasted for 146 days. It gained -1.59 or -13.35 %.
+--> ADS.DE did a Golden Cross on 2001-12-06. It lasted for 270 days. It gained -0.43 or -3.29 %.
+--> ADS.DE did a Golden Cross on 2002-12-16. It lasted for 58 days. It gained -2.47 or -17.02 %.
+--> ADS.DE did a Golden Cross on 2003-04-14. It lasted for 100 days. It gained -1.18 or -8.25 %.
+--> ADS.DE did a Golden Cross on 2003-10-02. It lasted for 1009 days. It gained 16.69 or 121.47 %.
+--> ADS.DE did a Golden Cross on 2006-12-08. It lasted for 32 days. It gained -0.55 or -1.78 %.
+--> ADS.DE did a Golden Cross on 2007-02-14. It lasted for 369 days. It gained 5.01 or 16.02 %.
+--> ADS.DE did a Golden Cross on 2008-06-25. It lasted for 6 days. It gained -3.27 or -9.15 %.
+--> ADS.DE did a Golden Cross on 2009-07-20. It lasted for 798 days. It gained 17.62 or 75.18 %.
+--> ADS.DE did a Golden Cross on 2011-11-15. It lasted for 857 days. It gained 23.25 or 51.34 %.
+--> ADS.DE did a Golden Cross on 2015-03-16. It lasted for 1012 days. It gained 96.39 or 145.57 %.
+--> ADS.DE did a Golden Cross on 2018-04-03. It lasted for 279 days. It gained -0.3 or -0.16 %.
+- - - - - - - - - - - - - - - - - - 
+--> ADS.DEGolden Cross Occurrences: 12
+--> ADS.DE Total gains: 149.17 MU 
+--> ADS.DE Average gain: 12.43 MU | StdDev: 26.79
+--> ADS.DE Average gain in percent: 29.71 % | StdDev: 53.64
+--> ADS.DE Average duration: 411.33 days | StdDev: 377.03
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> ALV.DE did a Golden Cross on 2019-03-04. It lasted for -6723 days. It gained -203.55 or -95.61 %.
+--> ALV.DE did a Golden Cross on 2000-12-20. It lasted for 35 days. It gained -9.72 or -5.26 %.
+--> ALV.DE did a Golden Cross on 2000-12-20. It lasted for 412 days. It gained -63.96 or -34.63 %.
+--> ALV.DE did a Golden Cross on 2002-04-30. It lasted for 37 days. It gained -16.52 or -12.85 %.
+--> ALV.DE did a Golden Cross on 2002-04-30. It lasted for 738 days. It gained -83.69 or -65.1 %.
+--> ALV.DE did a Golden Cross on 2004-11-26. It lasted for 579 days. It gained 14.66 or 30.05 %.
+--> ALV.DE did a Golden Cross on 2006-09-19. It lasted for 366 days. It gained 15.33 or 21.71 %.
+--> ALV.DE did a Golden Cross on 2009-06-11. It lasted for 783 days. It gained 14.43 or 34.65 %.
+--> ALV.DE did a Golden Cross on 2012-02-20. It lasted for 129 days. It gained -8.15 or -13.52 %.
+--> ALV.DE did a Golden Cross on 2012-08-10. It lasted for 1147 days. It gained 49.16 or 81.36 %.
+--> ALV.DE did a Golden Cross on 2015-11-13. It lasted for 101 days. It gained -16.92 or -13.55 %.
+--> ALV.DE did a Golden Cross on 2016-05-26. It lasted for 48 days. It gained -17.49 or -13.57 %.
+--> ALV.DE did a Golden Cross on 2016-10-06. It lasted for 547 days. It gained 52.26 or 43.85 %.
+--> ALV.DE did a Golden Cross on 2018-09-17. It lasted for 92 days. It gained -11.04 or -6.19 %.
+- - - - - - - - - - - - - - - - - - 
+--> ALV.DEGolden Cross Occurrences: 14
+--> ALV.DE Total gains: -285.18 MU 
+--> ALV.DE Average gain: -20.37 MU | StdDev: 61.92
+--> ALV.DE Average gain in percent: -3.47 % | StdDev: 43.35
+--> ALV.DE Average duration: -122.07 days | StdDev: 1860.14
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> BAS.DE did a Golden Cross on 2019-03-05. It lasted for -6724 days. It gained -3.76 or -1.98 %.
+--> BAS.DE did a Golden Cross on 2000-12-21. It lasted for 267 days. It gained -1.28 or -14.54 %.
+--> BAS.DE did a Golden Cross on 2002-03-01. It lasted for 171 days. It gained -0.11 or -1.22 %.
+--> BAS.DE did a Golden Cross on 2003-05-15. It lasted for 1736 days. It gained 17.23 or 200.42 %.
+--> BAS.DE did a Golden Cross on 2008-05-26. It lasted for 84 days. It gained -4.55 or -14.98 %.
+--> BAS.DE did a Golden Cross on 2009-05-29. It lasted for 826 days. It gained 14.38 or 69.74 %.
+--> BAS.DE did a Golden Cross on 2012-02-09. It lasted for 161 days. It gained -0.35 or -0.77 %.
+--> BAS.DE did a Golden Cross on 2012-08-14. It lasted for 371 days. It gained 6.86 or 14.48 %.
+--> BAS.DE did a Golden Cross on 2013-10-22. It lasted for 329 days. It gained 3.63 or 6.11 %.
+--> BAS.DE did a Golden Cross on 2015-03-04. It lasted for 174 days. It gained -11.66 or -16.39 %.
+--> BAS.DE did a Golden Cross on 2016-05-26. It lasted for 425 days. It gained 12.26 or 19.64 %.
+--> BAS.DE did a Golden Cross on 2017-10-18. It lasted for 160 days. It gained -7.16 or -8.61 %.
+- - - - - - - - - - - - - - - - - - 
+--> BAS.DEGolden Cross Occurrences: 12
+--> BAS.DE Total gains: 25.47 MU 
+--> BAS.DE Average gain: 2.12 MU | StdDev: 8.58
+--> BAS.DE Average gain in percent: 20.99 % | StdDev: 58.57
+--> BAS.DE Average duration: -168.33 days | StdDev: 2024.52
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> BAYN.DE did a Golden Cross on 2019-10-28. It lasted for -6747 days. It gained -60.43 or -86.35 %.
+--> BAYN.DE did a Golden Cross on 2002-03-29. It lasted for 89 days. It gained -4.57 or -19.6 %.
+--> BAYN.DE did a Golden Cross on 2003-06-19. It lasted for 326 days. It gained 0.82 or 6.33 %.
+--> BAYN.DE did a Golden Cross on 2004-06-01. It lasted for 78 days. It gained -1.81 or -11.9 %.
+--> BAYN.DE did a Golden Cross on 2004-11-04. It lasted for 1222 days. It gained 17.16 or 113.58 %.
+--> BAYN.DE did a Golden Cross on 2008-06-27. It lasted for 27 days. It gained 0.61 or 1.58 %.
+--> BAYN.DE did a Golden Cross on 2008-07-25. It lasted for 19 days. It gained -1.84 or -4.56 %.
+--> BAYN.DE did a Golden Cross on 2008-08-29. It lasted for 41 days. It gained -6.71 or -17.24 %.
+--> BAYN.DE did a Golden Cross on 2009-07-21. It lasted for 20 days. It gained -0.9 or -3.11 %.
+--> BAYN.DE did a Golden Cross on 2009-09-25. It lasted for 255 days. It gained 1.32 or 3.81 %.
+--> BAYN.DE did a Golden Cross on 2010-09-30. It lasted for 319 days. It gained -2.85 or -7.23 %.
+--> BAYN.DE did a Golden Cross on 2012-02-02. It lasted for 1324 days. It gained 56.95 or 132.43 %.
+--> BAYN.DE did a Golden Cross on 2017-01-10. It lasted for 342 days. It gained 8.57 or 9.54 %.
+- - - - - - - - - - - - - - - - - - 
+--> BAYN.DEGolden Cross Occurrences: 13
+--> BAYN.DE Total gains: 6.31 MU 
+--> BAYN.DE Average gain: 0.49 MU | StdDev: 23.77
+--> BAYN.DE Average gain in percent: 9.02 % | StdDev: 53.99
+--> BAYN.DE Average duration: -206.54 days | StdDev: 1933.93
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> BEI.DE did a Golden Cross on 2019-08-27. It lasted for -6251 days. It gained -49.12 or -73.34 %.
+--> BEI.DE did a Golden Cross on 2003-04-15. It lasted for 219 days. It gained -1.35 or -6.42 %.
+--> BEI.DE did a Golden Cross on 2004-06-29. It lasted for 86 days. It gained -4.24 or -19.47 %.
+--> BEI.DE did a Golden Cross on 2005-01-20. It lasted for 973 days. It gained 22.48 or 114.55 %.
+--> BEI.DE did a Golden Cross on 2007-10-15. It lasted for 98 days. It gained -7.33 or -16.03 %.
+--> BEI.DE did a Golden Cross on 2008-04-07. It lasted for 63 days. It gained -1.56 or -3.66 %.
+--> BEI.DE did a Golden Cross on 2009-09-11. It lasted for 377 days. It gained 3.2 or 9.52 %.
+--> BEI.DE did a Golden Cross on 2010-10-21. It lasted for 78 days. It gained -4.69 or -11.28 %.
+--> BEI.DE did a Golden Cross on 2011-05-09. It lasted for 133 days. It gained -3.28 or -7.99 %.
+--> BEI.DE did a Golden Cross on 2012-01-25. It lasted for 618 days. It gained 21.67 or 51.88 %.
+--> BEI.DE did a Golden Cross on 2013-11-12. It lasted for 260 days. It gained -3.63 or -5.24 %.
+--> BEI.DE did a Golden Cross on 2015-01-19. It lasted for 234 days. It gained -1.84 or -2.54 %.
+--> BEI.DE did a Golden Cross on 2015-11-05. It lasted for 158 days. It gained -10.89 or -12.71 %.
+--> BEI.DE did a Golden Cross on 2016-07-21. It lasted for 125 days. It gained -6.93 or -8.48 %.
+--> BEI.DE did a Golden Cross on 2017-02-17. It lasted for 384 days. It gained 3.96 or 4.73 %.
+--> BEI.DE did a Golden Cross on 2018-05-30. It lasted for 163 days. It gained -7.32 or -7.44 %.
+- - - - - - - - - - - - - - - - - - 
+--> BEI.DEGolden Cross Occurrences: 16
+--> BEI.DE Total gains: -50.87 MU 
+--> BEI.DE Average gain: -3.18 MU | StdDev: 15.0
+--> BEI.DE Average gain in percent: 0.38 % | StdDev: 37.51
+--> BEI.DE Average duration: -142.62 days | StdDev: 1593.93
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> BMW.DE did a Golden Cross on 2019-05-17. It lasted for -6682 days. It gained -82.97 or -81.11 %.
+--> BMW.DE did a Golden Cross on 2001-02-12. It lasted for 60 days. It gained -1.05 or -5.79 %.
+--> BMW.DE did a Golden Cross on 2001-05-25. It lasted for 115 days. It gained -5.68 or -30.32 %.
+--> BMW.DE did a Golden Cross on 2001-12-20. It lasted for 231 days. It gained 1.45 or 8.19 %.
+--> BMW.DE did a Golden Cross on 2003-06-11. It lasted for 288 days. It gained 1.5 or 9.11 %.
+--> BMW.DE did a Golden Cross on 2004-04-26. It lasted for 164 days. It gained -0.7 or -3.52 %.
+--> BMW.DE did a Golden Cross on 2005-03-23. It lasted for 505 days. It gained 3.61 or 17.69 %.
+--> BMW.DE did a Golden Cross on 2006-08-22. It lasted for 393 days. It gained 2.98 or 12.0 %.
+--> BMW.DE did a Golden Cross on 2009-05-07. It lasted for 295 days. It gained 1.69 or 8.61 %.
+--> BMW.DE did a Golden Cross on 2010-04-15. It lasted for 524 days. It gained 16.02 or 63.33 %.
+--> BMW.DE did a Golden Cross on 2012-02-14. It lasted for 150 days. It gained -7.5 or -14.54 %.
+--> BMW.DE did a Golden Cross on 2012-11-29. It lasted for 687 days. It gained 13.76 or 26.57 %.
+--> BMW.DE did a Golden Cross on 2015-01-21. It lasted for 195 days. It gained -1.18 or -1.53 %.
+--> BMW.DE did a Golden Cross on 2015-12-29. It lasted for 22 days. It gained -18.24 or -22.11 %.
+--> BMW.DE did a Golden Cross on 2016-09-14. It lasted for 331 days. It gained 7.06 or 10.76 %.
+--> BMW.DE did a Golden Cross on 2017-10-13. It lasted for 276 days. It gained -4.03 or -5.07 %.
+- - - - - - - - - - - - - - - - - - 
+--> BMW.DEGolden Cross Occurrences: 16
+--> BMW.DE Total gains: -73.26 MU 
+--> BMW.DE Average gain: -4.58 MU | StdDev: 21.67
+--> BMW.DE Average gain in percent: -0.48 % | StdDev: 29.35
+--> BMW.DE Average duration: -152.88 days | StdDev: 1694.57
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> 1COV.DE did a Golden Cross on 2019-11-13. It lasted for -827 days. It gained -0.21 or -0.29 %.
+--> 1COV.DE did a Golden Cross on 2017-09-29. It lasted for 238 days. It gained 7.49 or 11.06 %.
+- - - - - - - - - - - - - - - - - - 
+--> 1COV.DEGolden Cross Occurrences: 2
+--> 1COV.DE Total gains: 7.28 MU 
+--> 1COV.DE Average gain: 3.64 MU | StdDev: 3.85
+--> 1COV.DE Average gain in percent: 5.39 % | StdDev: 5.68
+--> 1COV.DE Average duration: -294.5 days | StdDev: 532.5
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> DAI.DE did a Golden Cross on 2019-11-13. It lasted for -6977 days. It gained -44.52 or -100.0 %.
+--> DAI.DE did a Golden Cross on 2001-04-13. It lasted for 158 days. It gained -8.42 or -32.09 %.
+--> DAI.DE did a Golden Cross on 2002-03-18. It lasted for 137 days. It gained -5.37 or -20.15 %.
+--> DAI.DE did a Golden Cross on 2003-07-25. It lasted for 411 days. It gained 2.85 or 17.0 %.
+--> DAI.DE did a Golden Cross on 2005-02-10. It lasted for 68 days. It gained -2.16 or -10.84 %.
+--> DAI.DE did a Golden Cross on 2005-07-11. It lasted for 338 days. It gained 2.54 or 12.86 %.
+--> DAI.DE did a Golden Cross on 2006-11-17. It lasted for 426 days. It gained 5.3 or 18.69 %.
+--> DAI.DE did a Golden Cross on 2009-06-11. It lasted for 761 days. It gained 16.94 or 92.54 %.
+--> DAI.DE did a Golden Cross on 2011-07-13. It lasted for 2 days. It gained 0.07 or 0.19 %.
+--> DAI.DE did a Golden Cross on 2011-08-01. It lasted for 1 days. It gained -1.08 or -3.24 %.
+--> DAI.DE did a Golden Cross on 2012-02-23. It lasted for 130 days. It gained -6.01 or -18.78 %.
+--> DAI.DE did a Golden Cross on 2012-09-03. It lasted for 43 days. It gained -0.19 or -0.7 %.
+--> DAI.DE did a Golden Cross on 2013-01-11. It lasted for 602 days. It gained 20.01 or 64.73 %.
+--> DAI.DE did a Golden Cross on 2015-01-06. It lasted for 240 days. It gained 5.85 or 11.23 %.
+--> DAI.DE did a Golden Cross on 2016-09-22. It lasted for 301 days. It gained 2.95 or 5.5 %.
+--> DAI.DE did a Golden Cross on 2017-10-25. It lasted for 217 days. It gained -2.57 or -4.19 %.
+--> DAI.DE did a Golden Cross on 2019-04-24. It lasted for 84 days. It gained -8.57 or -15.67 %.
+- - - - - - - - - - - - - - - - - - 
+--> DAI.DEGolden Cross Occurrences: 17
+--> DAI.DE Total gains: -22.4 MU 
+--> DAI.DE Average gain: -1.32 MU | StdDev: 13.17
+--> DAI.DE Average gain in percent: 1.0 % | StdDev: 39.01
+--> DAI.DE Average duration: -179.88 days | StdDev: 1711.62
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> DBK.DE did a Golden Cross on 2019-11-12. It lasted for -6805 days. It gained -29.75 or -55.18 %.
+--> DBK.DE did a Golden Cross on 2002-01-24. It lasted for 28 days. It gained -4.88 or -15.01 %.
+--> DBK.DE did a Golden Cross on 2002-04-23. It lasted for 92 days. It gained -6.47 or -20.96 %.
+--> DBK.DE did a Golden Cross on 2003-06-02. It lasted for 422 days. It gained 3.75 or 16.12 %.
+--> DBK.DE did a Golden Cross on 2004-12-15. It lasted for 988 days. It gained 18.62 or 61.18 %.
+--> DBK.DE did a Golden Cross on 2009-05-20. It lasted for 273 days. It gained 0.26 or 0.9 %.
+--> DBK.DE did a Golden Cross on 2010-03-31. It lasted for 89 days. It gained -4.66 or -12.96 %.
+--> DBK.DE did a Golden Cross on 2010-08-04. It lasted for 69 days. It gained -7.79 or -21.38 %.
+--> DBK.DE did a Golden Cross on 2011-02-24. It lasted for 67 days. It gained -1.16 or -3.55 %.
+--> DBK.DE did a Golden Cross on 2012-02-29. It lasted for 117 days. It gained -4.99 or -19.48 %.
+--> DBK.DE did a Golden Cross on 2012-10-22. It lasted for 308 days. It gained 0.1 or 0.39 %.
+--> DBK.DE did a Golden Cross on 2013-09-10. It lasted for 203 days. It gained -1.34 or -4.97 %.
+--> DBK.DE did a Golden Cross on 2015-02-27. It lasted for 213 days. It gained -4.31 or -17.6 %.
+--> DBK.DE did a Golden Cross on 2016-12-13. It lasted for 247 days. It gained -1.27 or -8.47 %.
+--> DBK.DE did a Golden Cross on 2017-12-20. It lasted for 62 days. It gained -3.16 or -19.51 %.
+--> DBK.DE did a Golden Cross on 2019-11-13. It lasted for 5 days. It gained -0.03 or -0.48 %.
+- - - - - - - - - - - - - - - - - - 
+--> DBK.DEGolden Cross Occurrences: 16
+--> DBK.DE Total gains: -47.08 MU 
+--> DBK.DE Average gain: -2.94 MU | StdDev: 9.06
+--> DBK.DE Average gain in percent: -7.56 % | StdDev: 23.19
+--> DBK.DE Average duration: -226.38 days | StdDev: 1713.97
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> DB1.DE did a Golden Cross on 2019-11-13. It lasted for -6245 days. It gained 9.71 or 146.03 %.
+--> DB1.DE did a Golden Cross on 2003-05-06. It lasted for 231 days. It gained -0.29 or -1.08 %.
+--> DB1.DE did a Golden Cross on 2004-02-13. It lasted for 115 days. It gained -3.76 or -11.99 %.
+--> DB1.DE did a Golden Cross on 2004-12-23. It lasted for 921 days. It gained 28.76 or 102.26 %.
+--> DB1.DE did a Golden Cross on 2007-12-27. It lasted for 119 days. It gained -28.53 or -31.64 %.
+--> DB1.DE did a Golden Cross on 2009-06-01. It lasted for 238 days. It gained -9.92 or -21.49 %.
+--> DB1.DE did a Golden Cross on 2010-05-10. It lasted for 30 days. It gained -2.22 or -5.6 %.
+--> DB1.DE did a Golden Cross on 2010-08-10. It lasted for 20 days. It gained -4.17 or -10.39 %.
+--> DB1.DE did a Golden Cross on 2011-01-24. It lasted for 203 days. It gained -6.42 or -15.13 %.
+--> DB1.DE did a Golden Cross on 2012-03-02. It lasted for 108 days. It gained -5.03 or -13.43 %.
+--> DB1.DE did a Golden Cross on 2012-12-19. It lasted for 502 days. It gained 8.26 or 22.17 %.
+--> DB1.DE did a Golden Cross on 2014-07-11. It lasted for 35 days. It gained -0.6 or -1.27 %.
+--> DB1.DE did a Golden Cross on 2014-12-05. It lasted for 419 days. It gained 17.58 or 33.82 %.
+--> DB1.DE did a Golden Cross on 2016-06-23. It lasted for 57 days. It gained -5.1 or -6.7 %.
+--> DB1.DE did a Golden Cross on 2016-08-22. It lasted for 9 days. It gained -2.52 or -3.63 %.
+--> DB1.DE did a Golden Cross on 2016-09-14. It lasted for 8 days. It gained 2.7 or 4.08 %.
+--> DB1.DE did a Golden Cross on 2017-01-05. It lasted for 693 days. It gained 37.47 or 52.61 %.
+--> DB1.DE did a Golden Cross on 2019-03-27. It lasted for 19 days. It gained -0.83 or -0.75 %.
+- - - - - - - - - - - - - - - - - - 
+--> DB1.DEGolden Cross Occurrences: 18
+--> DB1.DE Total gains: 35.1 MU 
+--> DB1.DE Average gain: 1.95 MU | StdDev: 14.32
+--> DB1.DE Average gain in percent: 13.21 % | StdDev: 44.27
+--> DB1.DE Average duration: -139.89 days | StdDev: 1501.86
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> LHA.DE did a Golden Cross on 2019-04-16. It lasted for -6752 days. It gained -114.87 or -100.0 %.
+--> LHA.DE did a Golden Cross on 2001-01-02. It lasted for 70 days. It gained -2.36 or -15.16 %.
+--> LHA.DE did a Golden Cross on 2002-02-18. It lasted for 130 days. It gained -1.66 or -15.94 %.
+--> LHA.DE did a Golden Cross on 2003-06-23. It lasted for 333 days. It gained 1.31 or 20.26 %.
+--> LHA.DE did a Golden Cross on 2005-01-26. It lasted for 142 days. It gained 0.32 or 4.84 %.
+--> LHA.DE did a Golden Cross on 2005-08-12. It lasted for 740 days. It gained 7.18 or 97.51 %.
+--> LHA.DE did a Golden Cross on 2009-08-05. It lasted for 320 days. It gained 1.26 or 15.06 %.
+--> LHA.DE did a Golden Cross on 2010-08-04. It lasted for 265 days. It gained 1.68 or 15.74 %.
+--> LHA.DE did a Golden Cross on 2011-05-27. It lasted for 17 days. It gained -0.89 or -6.93 %.
+--> LHA.DE did a Golden Cross on 2012-08-17. It lasted for 381 days. It gained 3.28 or 37.59 %.
+--> LHA.DE did a Golden Cross on 2013-12-27. It lasted for 213 days. It gained -0.54 or -4.01 %.
+--> LHA.DE did a Golden Cross on 2015-03-10. It lasted for 30 days. It gained -0.24 or -2.07 %.
+--> LHA.DE did a Golden Cross on 2015-11-09. It lasted for 214 days. It gained -1.6 or -13.14 %.
+--> LHA.DE did a Golden Cross on 2016-12-15. It lasted for 516 days. It gained 12.33 or 104.4 %.
+--> LHA.DE did a Golden Cross on 2019-03-05. It lasted for 69 days. It gained -3.5 or -16.12 %.
+- - - - - - - - - - - - - - - - - - 
+--> LHA.DEGolden Cross Occurrences: 15
+--> LHA.DE Total gains: -98.29 MU 
+--> LHA.DE Average gain: -6.55 MU | StdDev: 29.21
+--> LHA.DE Average gain in percent: 8.13 % | StdDev: 46.71
+--> LHA.DE Average duration: -220.8 days | StdDev: 1755.75
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> DPW.DE did a Golden Cross on 2019-03-05. It lasted for -6237 days. It gained -11.47 or -52.8 %.
+--> DPW.DE did a Golden Cross on 2002-05-03. It lasted for 27 days. It gained 0.37 or 4.91 %.
+--> DPW.DE did a Golden Cross on 2003-05-16. It lasted for 424 days. It gained 3.12 or 49.19 %.
+--> DPW.DE did a Golden Cross on 2005-01-26. It lasted for 303 days. It gained 1.21 or 12.55 %.
+--> DPW.DE did a Golden Cross on 2006-01-05. It lasted for 215 days. It gained -0.85 or -7.01 %.
+--> DPW.DE did a Golden Cross on 2006-11-01. It lasted for 289 days. It gained -0.4 or -3.08 %.
+--> DPW.DE did a Golden Cross on 2008-01-08. It lasted for 69 days. It gained -2.71 or -18.26 %.
+--> DPW.DE did a Golden Cross on 2009-07-03. It lasted for 343 days. It gained 2.31 or 35.96 %.
+--> DPW.DE did a Golden Cross on 2010-07-16. It lasted for 259 days. It gained 0.16 or 1.77 %.
+--> DPW.DE did a Golden Cross on 2011-06-02. It lasted for 69 days. It gained -1.86 or -19.21 %.
+--> DPW.DE did a Golden Cross on 2012-01-26. It lasted for 935 days. It gained 10.66 or 111.49 %.
+--> DPW.DE did a Golden Cross on 2015-01-05. It lasted for 219 days. It gained 0.94 or 4.25 %.
+--> DPW.DE did a Golden Cross on 2016-05-17. It lasted for 686 days. It gained 9.15 or 39.1 %.
+- - - - - - - - - - - - - - - - - - 
+--> DPW.DEGolden Cross Occurrences: 13
+--> DPW.DE Total gains: 10.64 MU 
+--> DPW.DE Average gain: 0.82 MU | StdDev: 5.18
+--> DPW.DE Average gain in percent: 12.22 % | StdDev: 38.71
+--> DPW.DE Average duration: -184.54 days | StdDev: 1763.88
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> DTE.DE did a Golden Cross on 2019-04-23. It lasted for -6773 days. It gained -29.91 or -100.0 %.
+--> DTE.DE did a Golden Cross on 2002-12-25. It lasted for 93 days. It gained -0.88 or -17.7 %.
+--> DTE.DE did a Golden Cross on 2003-05-21. It lasted for 371 days. It gained 0.44 or 9.37 %.
+--> DTE.DE did a Golden Cross on 2004-10-21. It lasted for 197 days. It gained 0.25 or 4.28 %.
+--> DTE.DE did a Golden Cross on 2005-07-26. It lasted for 93 days. It gained -0.63 or -9.57 %.
+--> DTE.DE did a Golden Cross on 2006-11-14. It lasted for 169 days. It gained -0.06 or -1.11 %.
+--> DTE.DE did a Golden Cross on 2007-05-25. It lasted for 286 days. It gained -0.65 or -10.74 %.
+--> DTE.DE did a Golden Cross on 2008-11-05. It lasted for 82 days. It gained -0.66 or -11.82 %.
+--> DTE.DE did a Golden Cross on 2009-09-11. It lasted for 497 days. It gained 0.67 or 13.18 %.
+--> DTE.DE did a Golden Cross on 2011-04-01. It lasted for 164 days. It gained -1.51 or -23.66 %.
+--> DTE.DE did a Golden Cross on 2012-07-16. It lasted for 151 days. It gained -0.4 or -6.54 %.
+--> DTE.DE did a Golden Cross on 2013-05-23. It lasted for 480 days. It gained 1.98 or 29.93 %.
+--> DTE.DE did a Golden Cross on 2014-11-26. It lasted for 321 days. It gained 1.34 or 13.35 %.
+--> DTE.DE did a Golden Cross on 2015-11-19. It lasted for 83 days. It gained -1.96 or -14.95 %.
+--> DTE.DE did a Golden Cross on 2016-07-12. It lasted for 113 days. It gained -0.51 or -4.1 %.
+--> DTE.DE did a Golden Cross on 2016-12-22. It lasted for 347 days. It gained 0.73 or 5.55 %.
+- - - - - - - - - - - - - - - - - - 
+--> DTE.DEGolden Cross Occurrences: 16
+--> DTE.DE Total gains: -31.76 MU 
+--> DTE.DE Average gain: -1.99 MU | StdDev: 7.28
+--> DTE.DE Average gain in percent: -7.78 % | StdDev: 27.29
+--> DTE.DE Average duration: -207.88 days | StdDev: 1700.43
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> FME.DE did a Golden Cross on 2018-08-03. It lasted for -6405 days. It gained 0.71 or 5.25 %.
+--> FME.DE did a Golden Cross on 2001-03-14. It lasted for 70 days. It gained -135.52 or -89.2 %.
+--> FME.DE did a Golden Cross on 2001-08-30. It lasted for 48 days. It gained -1.12 or -6.15 %.
+--> FME.DE did a Golden Cross on 2003-01-27. It lasted for 714 days. It gained 4.79 or 51.58 %.
+--> FME.DE did a Golden Cross on 2005-02-24. It lasted for 1097 days. It gained 13.12 or 80.95 %.
+--> FME.DE did a Golden Cross on 2008-07-02. It lasted for 160 days. It gained -0.96 or -3.28 %.
+--> FME.DE did a Golden Cross on 2009-08-10. It lasted for 1221 days. It gained 21.24 or 79.36 %.
+--> FME.DE did a Golden Cross on 2013-06-27. It lasted for 8 days. It gained -5.82 or -11.72 %.
+--> FME.DE did a Golden Cross on 2014-01-21. It lasted for 99 days. It gained -3.79 or -7.75 %.
+--> FME.DE did a Golden Cross on 2014-08-13. It lasted for 413 days. It gained 17.34 or 36.18 %.
+--> FME.DE did a Golden Cross on 2015-11-13. It lasted for 228 days. It gained -1.85 or -2.48 %.
+--> FME.DE did a Golden Cross on 2016-07-20. It lasted for 107 days. It gained -6.92 or -9.06 %.
+--> FME.DE did a Golden Cross on 2017-02-07. It lasted for 28 days. It gained 2.54 or 3.54 %.
+--> FME.DE did a Golden Cross on 2017-04-10. It lasted for 165 days. It gained 3.54 or 4.75 %.
+--> FME.DE did a Golden Cross on 2017-10-12. It lasted for 197 days. It gained 2.77 or 3.58 %.
+--> FME.DE did a Golden Cross on 2018-06-06. It lasted for 142 days. It gained -15.96 or -19.0 %.
+--> FME.DE did a Golden Cross on 2019-06-19. It lasted for 68 days. It gained -9.82 or -13.97 %.
+- - - - - - - - - - - - - - - - - - 
+--> FME.DEGolden Cross Occurrences: 17
+--> FME.DE Total gains: -115.7 MU 
+--> FME.DE Average gain: -6.81 MU | StdDev: 33.44
+--> FME.DE Average gain in percent: 6.03 % | StdDev: 38.44
+--> FME.DE Average duration: -96.47 days | StdDev: 1616.79
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> HEI.DE did a Golden Cross on 2019-06-19. It lasted for -6830 days. It gained -51.09 or -72.69 %.
+--> HEI.DE did a Golden Cross on 2001-03-08. It lasted for 109 days. It gained -7.25 or -16.83 %.
+--> HEI.DE did a Golden Cross on 2002-01-11. It lasted for 165 days. It gained -6.27 or -16.15 %.
+--> HEI.DE did a Golden Cross on 2003-09-09. It lasted for 1434 days. It gained 56.12 or 234.74 %.
+--> HEI.DE did a Golden Cross on 2008-04-16. It lasted for 72 days. It gained -12.61 or -15.11 %.
+--> HEI.DE did a Golden Cross on 2009-08-21. It lasted for 314 days. It gained 4.65 or 17.33 %.
+--> HEI.DE did a Golden Cross on 2010-12-15. It lasted for 215 days. It gained -5.65 or -14.25 %.
+--> HEI.DE did a Golden Cross on 2012-02-21. It lasted for 148 days. It gained -2.07 or -6.05 %.
+--> HEI.DE did a Golden Cross on 2012-08-09. It lasted for 748 days. It gained 16.04 or 46.33 %.
+--> HEI.DE did a Golden Cross on 2015-01-20. It lasted for 245 days. It gained 1.6 or 2.98 %.
+--> HEI.DE did a Golden Cross on 2015-12-22. It lasted for 50 days. It gained -9.68 or -14.99 %.
+--> HEI.DE did a Golden Cross on 2016-04-11. It lasted for 429 days. It gained 14.58 or 22.26 %.
+--> HEI.DE did a Golden Cross on 2017-11-10. It lasted for 129 days. It gained -8.46 or -10.03 %.
+--> HEI.DE did a Golden Cross on 2019-04-09. It lasted for 175 days. It gained -0.69 or -1.04 %.
+--> HEI.DE did a Golden Cross on 2019-11-13. It lasted for 7 days. It gained 2.48 or 3.83 %.
+- - - - - - - - - - - - - - - - - - 
+--> HEI.DEGolden Cross Occurrences: 15
+--> HEI.DE Total gains: -8.31 MU 
+--> HEI.DE Average gain: -0.55 MU | StdDev: 21.15
+--> HEI.DE Average gain in percent: 10.69 % | StdDev: 64.8
+--> HEI.DE Average duration: -172.67 days | StdDev: 1813.33
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> HEN3.DE did a Golden Cross on 2019-11-13. It lasted for -5556 days. It gained -38.5 or -59.39 %.
+--> HEN3.DE did a Golden Cross on 2005-01-31. It lasted for 968 days. It gained 12.85 or 79.43 %.
+--> HEN3.DE did a Golden Cross on 2008-01-04. It lasted for 12 days. It gained -2.89 or -9.58 %.
+--> HEN3.DE did a Golden Cross on 2009-06-19. It lasted for 803 days. It gained 16.82 or 87.72 %.
+--> HEN3.DE did a Golden Cross on 2012-01-31. It lasted for 822 days. It gained 30.85 or 74.81 %.
+--> HEN3.DE did a Golden Cross on 2014-05-19. It lasted for 136 days. It gained -7.22 or -9.23 %.
+--> HEN3.DE did a Golden Cross on 2014-12-11. It lasted for 277 days. It gained 1.85 or 2.24 %.
+--> HEN3.DE did a Golden Cross on 2016-01-05. It lasted for 7 days. It gained -2.79 or -3.06 %.
+--> HEN3.DE did a Golden Cross on 2016-01-13. It lasted for 1 days. It gained -1.91 or -2.14 %.
+--> HEN3.DE did a Golden Cross on 2016-05-03. It lasted for 496 days. It gained 20.63 or 22.04 %.
+--> HEN3.DE did a Golden Cross on 2018-08-13. It lasted for 57 days. It gained -9.74 or -9.15 %.
+- - - - - - - - - - - - - - - - - - 
+--> HEN3.DEGolden Cross Occurrences: 11
+--> HEN3.DE Total gains: 19.96 MU 
+--> HEN3.DE Average gain: 1.81 MU | StdDev: 17.69
+--> HEN3.DE Average gain in percent: 15.79 % | StdDev: 43.85
+--> HEN3.DE Average duration: -179.73 days | StdDev: 1735.09
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> IFX.DE did a Golden Cross on 2019-09-03. It lasted for -6836 days. It gained -78.75 or -85.62 %.
+--> IFX.DE did a Golden Cross on 2002-02-28. It lasted for 88 days. It gained -6.06 or -29.41 %.
+--> IFX.DE did a Golden Cross on 2003-06-23. It lasted for 273 days. It gained 1.95 or 29.99 %.
+--> IFX.DE did a Golden Cross on 2005-07-28. It lasted for 795 days. It gained 3.0 or 47.71 %.
+--> IFX.DE did a Golden Cross on 2009-06-16. It lasted for 786 days. It gained 3.38 or 174.27 %.
+--> IFX.DE did a Golden Cross on 2012-02-21. It lasted for 127 days. It gained -2.07 or -30.57 %.
+--> IFX.DE did a Golden Cross on 2013-01-18. It lasted for 640 days. It gained 0.61 or 10.06 %.
+--> IFX.DE did a Golden Cross on 2015-01-28. It lasted for 222 days. It gained 0.1 or 1.06 %.
+--> IFX.DE did a Golden Cross on 2015-11-26. It lasted for 987 days. It gained 9.82 or 79.13 %.
+--> IFX.DE did a Golden Cross on 2019-04-11. It lasted for 56 days. It gained -5.22 or -25.96 %.
+- - - - - - - - - - - - - - - - - - 
+--> IFX.DEGolden Cross Occurrences: 10
+--> IFX.DE Total gains: -73.24 MU 
+--> IFX.DE Average gain: -7.32 MU | StdDev: 24.2
+--> IFX.DE Average gain in percent: 17.07 % | StdDev: 68.41
+--> IFX.DE Average duration: -286.2 days | StdDev: 2206.72
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> LIN.DE did a Golden Cross on 2019-11-21. It lasted for -6771 days. It gained 17.88 or 94.74 %.
+--> LIN.DE did a Golden Cross on 2001-06-06. It lasted for 69 days. It gained -2.18 or -8.47 %.
+--> LIN.DE did a Golden Cross on 2002-02-11. It lasted for 182 days. It gained -1.81 or -7.12 %.
+--> LIN.DE did a Golden Cross on 2003-07-08. It lasted for 1105 days. It gained 19.49 or 101.68 %.
+--> LIN.DE did a Golden Cross on 2006-08-17. It lasted for 581 days. It gained 14.8 or 34.38 %.
+--> LIN.DE did a Golden Cross on 2008-04-09. It lasted for 140 days. It gained -5.5 or -9.15 %.
+--> LIN.DE did a Golden Cross on 2009-06-23. It lasted for 814 days. It gained 35.56 or 91.07 %.
+--> LIN.DE did a Golden Cross on 2012-01-16. It lasted for 812 days. It gained 26.88 or 31.0 %.
+--> LIN.DE did a Golden Cross on 2014-04-14. It lasted for 511 days. It gained 14.85 or 13.13 %.
+--> LIN.DE did a Golden Cross on 2016-08-16. It lasted for 601 days. It gained 15.9 or 11.71 %.
+--> LIN.DE did a Golden Cross on 2016-08-16. It lasted for 941 days. It gained 16.34 or 12.04 %.
+- - - - - - - - - - - - - - - - - - 
+--> LIN.DEGolden Cross Occurrences: 11
+--> LIN.DE Total gains: 152.22 MU 
+--> LIN.DE Average gain: 13.84 MU | StdDev: 11.98
+--> LIN.DE Average gain in percent: 33.18 % | StdDev: 40.79
+--> LIN.DE Average duration: -92.27 days | StdDev: 2136.24
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> MRK.DE did a Golden Cross on 2019-05-10. It lasted for -6568 days. It gained -131.97 or -84.27 %.
+--> MRK.DE did a Golden Cross on 2001-09-04. It lasted for 21 days. It gained -1.2 or -10.7 %.
+--> MRK.DE did a Golden Cross on 2003-01-15. It lasted for 1276 days. It gained 14.07 or 182.77 %.
+--> MRK.DE did a Golden Cross on 2006-10-11. It lasted for 355 days. It gained 1.41 or 5.16 %.
+--> MRK.DE did a Golden Cross on 2008-05-28. It lasted for 72 days. It gained -5.17 or -15.67 %.
+--> MRK.DE did a Golden Cross on 2009-05-20. It lasted for 211 days. It gained -0.56 or -2.17 %.
+--> MRK.DE did a Golden Cross on 2010-08-04. It lasted for 107 days. It gained -3.8 or -13.68 %.
+--> MRK.DE did a Golden Cross on 2011-03-15. It lasted for 190 days. It gained -0.55 or -2.12 %.
+--> MRK.DE did a Golden Cross on 2011-12-15. It lasted for 838 days. It gained 23.07 or 73.4 %.
+--> MRK.DE did a Golden Cross on 2014-05-27. It lasted for 458 days. It gained 20.76 or 35.18 %.
+--> MRK.DE did a Golden Cross on 2016-06-09. It lasted for 435 days. It gained 2.72 or 3.17 %.
+--> MRK.DE did a Golden Cross on 2018-07-31. It lasted for 330 days. It gained 5.57 or 6.42 %.
+- - - - - - - - - - - - - - - - - - 
+--> MRK.DEGolden Cross Occurrences: 12
+--> MRK.DE Total gains: -75.64 MU 
+--> MRK.DE Average gain: -6.3 MU | StdDev: 38.93
+--> MRK.DE Average gain in percent: 14.79 % | StdDev: 61.33
+--> MRK.DE Average duration: -189.58 days | StdDev: 1952.98
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> MTX.DE did a Golden Cross on 2019-08-22. It lasted for -4306 days. It gained -66.63 or -69.98 %.
+--> MTX.DE did a Golden Cross on 2009-03-04. It lasted for 617 days. It gained 19.41 or 115.27 %.
+--> MTX.DE did a Golden Cross on 2010-12-21. It lasted for 259 days. It gained -4.02 or -9.62 %.
+--> MTX.DE did a Golden Cross on 2012-02-01. It lasted for 573 days. It gained 15.24 or 32.53 %.
+--> MTX.DE did a Golden Cross on 2014-06-04. It lasted for 64 days. It gained -4.14 or -6.63 %.
+--> MTX.DE did a Golden Cross on 2014-10-16. It lasted for 333 days. It gained 16.33 or 27.8 %.
+--> MTX.DE did a Golden Cross on 2015-12-17. It lasted for 70 days. It gained -9.23 or -10.8 %.
+--> MTX.DE did a Golden Cross on 2016-04-28. It lasted for 713 days. It gained 52.97 or 66.0 %.
+- - - - - - - - - - - - - - - - - - 
+--> MTX.DEGolden Cross Occurrences: 8
+--> MTX.DE Total gains: 19.92 MU 
+--> MTX.DE Average gain: 2.49 MU | StdDev: 32.0
+--> MTX.DE Average gain in percent: 18.07 % | StdDev: 52.45
+--> MTX.DE Average duration: -209.62 days | StdDev: 1565.03
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> MUV2.DE did a Golden Cross on 2018-05-07. It lasted for -4960 days. It gained -149.78 or -100.0 %.
+--> MUV2.DE did a Golden Cross on 2004-12-27. It lasted for 554 days. It gained 11.67 or 25.07 %.
+--> MUV2.DE did a Golden Cross on 2006-08-31. It lasted for 468 days. It gained 9.99 or 15.62 %.
+--> MUV2.DE did a Golden Cross on 2008-05-27. It lasted for 38 days. It gained -5.75 or -8.28 %.
+--> MUV2.DE did a Golden Cross on 2009-02-04. It lasted for 20 days. It gained -7.24 or -11.79 %.
+--> MUV2.DE did a Golden Cross on 2009-06-15. It lasted for 28 days. It gained 2.03 or 3.5 %.
+--> MUV2.DE did a Golden Cross on 2009-07-30. It lasted for 334 days. It gained 2.22 or 3.38 %.
+--> MUV2.DE did a Golden Cross on 2010-08-13. It lasted for 14 days. It gained -3.57 or -5.13 %.
+--> MUV2.DE did a Golden Cross on 2010-11-15. It lasted for 228 days. It gained -0.49 or -0.66 %.
+--> MUV2.DE did a Golden Cross on 2012-02-10. It lasted for 963 days. It gained 51.94 or 70.89 %.
+--> MUV2.DE did a Golden Cross on 2014-12-12. It lasted for 224 days. It gained 13.64 or 10.64 %.
+--> MUV2.DE did a Golden Cross on 2015-11-24. It lasted for 190 days. It gained -6.32 or -4.14 %.
+- - - - - - - - - - - - - - - - - - 
+--> MUV2.DEGolden Cross Occurrences: 12
+--> MUV2.DE Total gains: -81.67 MU 
+--> MUV2.DE Average gain: -6.81 MU | StdDev: 45.78
+--> MUV2.DE Average gain in percent: -0.08 % | StdDev: 36.84
+--> MUV2.DE Average duration: -158.25 days | StdDev: 1472.16
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> RWE.DE did a Golden Cross on 2016-10-12. It lasted for -5363 days. It gained -18.27 or -12.35 %.
+--> RWE.DE did a Golden Cross on 2016-10-12. It lasted for -3135 days. It gained -84.67 or -57.21 %.
+--> RWE.DE did a Golden Cross on 2009-06-15. It lasted for 364 days. It gained 1.71 or 4.49 %.
+--> RWE.DE did a Golden Cross on 2012-03-08. It lasted for 305 days. It gained -1.73 or -6.49 %.
+--> RWE.DE did a Golden Cross on 2013-11-06. It lasted for 376 days. It gained -0.31 or -1.31 %.
+--> RWE.DE did a Golden Cross on 2016-05-30. It lasted for 192 days. It gained -0.83 or -7.31 %.
+--> RWE.DE did a Golden Cross on 2017-04-05. It lasted for 292 days. It gained 1.98 or 13.46 %.
+--> RWE.DE did a Golden Cross on 2018-04-30. It lasted for 193 days. It gained -1.27 or -6.59 %.
+- - - - - - - - - - - - - - - - - - 
+--> RWE.DEGolden Cross Occurrences: 8
+--> RWE.DE Total gains: -103.4 MU 
+--> RWE.DE Average gain: -12.92 MU | StdDev: 27.79
+--> RWE.DE Average gain in percent: -9.16 % | StdDev: 19.67
+--> RWE.DE Average duration: -847.0 days | StdDev: 2042.58
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> SAP.DE did a Golden Cross on 2019-02-14. It lasted for -6657 days. It gained 0.95 or 4.38 %.
+--> SAP.DE did a Golden Cross on 2001-06-13. It lasted for 100 days. It gained -12.08 or -39.32 %.
+--> SAP.DE did a Golden Cross on 2001-06-13. It lasted for 482 days. It gained -22.83 or -74.31 %.
+--> SAP.DE did a Golden Cross on 2003-02-07. It lasted for 564 days. It gained 7.65 or 49.39 %.
+--> SAP.DE did a Golden Cross on 2004-11-03. It lasted for 93 days. It gained -2.86 or -10.97 %.
+--> SAP.DE did a Golden Cross on 2005-06-08. It lasted for 419 days. It gained 1.62 or 5.9 %.
+--> SAP.DE did a Golden Cross on 2007-01-08. It lasted for 25 days. It gained -5.47 or -15.73 %.
+--> SAP.DE did a Golden Cross on 2007-07-25. It lasted for 138 days. It gained -3.62 or -10.77 %.
+--> SAP.DE did a Golden Cross on 2008-07-21. It lasted for 106 days. It gained -4.87 or -16.35 %.
+--> SAP.DE did a Golden Cross on 2009-06-04. It lasted for 809 days. It gained 4.4 or 16.88 %.
+--> SAP.DE did a Golden Cross on 2011-11-28. It lasted for 591 days. It gained 13.83 or 36.53 %.
+--> SAP.DE did a Golden Cross on 2013-12-12. It lasted for 104 days. It gained -0.97 or -1.81 %.
+--> SAP.DE did a Golden Cross on 2014-04-22. It lasted for 6 days. It gained -1.06 or -2.0 %.
+--> SAP.DE did a Golden Cross on 2014-07-29. It lasted for 94 days. It gained -5.36 or -9.62 %.
+--> SAP.DE did a Golden Cross on 2015-02-02. It lasted for 233 days. It gained -1.15 or -2.11 %.
+--> SAP.DE did a Golden Cross on 2015-11-17. It lasted for 814 days. It gained 12.07 or 17.32 %.
+--> SAP.DE did a Golden Cross on 2018-06-05. It lasted for 183 days. It gained -8.57 or -8.78 %.
+- - - - - - - - - - - - - - - - - - 
+--> SAP.DEGolden Cross Occurrences: 17
+--> SAP.DE Total gains: -28.3 MU 
+--> SAP.DE Average gain: -1.66 MU | StdDev: 8.47
+--> SAP.DE Average gain in percent: -3.61 % | StdDev: 26.78
+--> SAP.DE Average duration: -111.53 days | StdDev: 1656.6
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> SIE.DE did a Golden Cross on 2019-04-10. It lasted for -6740 days. It gained -63.93 or -64.98 %.
+--> SIE.DE did a Golden Cross on 2002-01-14. It lasted for 169 days. It gained -7.69 or -18.81 %.
+--> SIE.DE did a Golden Cross on 2003-05-12. It lasted for 389 days. It gained 9.9 or 38.37 %.
+--> SIE.DE did a Golden Cross on 2004-11-05. It lasted for 200 days. It gained -0.42 or -1.13 %.
+--> SIE.DE did a Golden Cross on 2005-07-12. It lasted for 351 days. It gained 3.26 or 8.44 %.
+--> SIE.DE did a Golden Cross on 2006-11-21. It lasted for 454 days. It gained 10.74 or 22.24 %.
+--> SIE.DE did a Golden Cross on 2009-06-08. It lasted for 791 days. It gained 16.37 or 44.67 %.
+--> SIE.DE did a Golden Cross on 2012-03-15. It lasted for 77 days. It gained -9.12 or -15.26 %.
+--> SIE.DE did a Golden Cross on 2012-09-07. It lasted for 705 days. It gained 17.59 or 29.85 %.
+--> SIE.DE did a Golden Cross on 2015-01-28. It lasted for 188 days. It gained 3.12 or 3.78 %.
+--> SIE.DE did a Golden Cross on 2016-03-31. It lasted for 504 days. It gained 19.62 or 23.26 %.
+--> SIE.DE did a Golden Cross on 2018-06-21. It lasted for 103 days. It gained -7.08 or -6.41 %.
+--> SIE.DE did a Golden Cross on 2019-05-09. It lasted for 104 days. It gained -16.16 or -15.35 %.
+- - - - - - - - - - - - - - - - - - 
+--> SIE.DEGolden Cross Occurrences: 13
+--> SIE.DE Total gains: -23.79 MU 
+--> SIE.DE Average gain: -1.83 MU | StdDev: 20.93
+--> SIE.DE Average gain in percent: 3.74 % | StdDev: 28.26
+--> SIE.DE Average duration: -208.08 days | StdDev: 1898.45
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> VOW3.DE did a Golden Cross on 2019-11-11. It lasted for -4042 days. It gained -82.7 or -73.48 %.
+--> VOW3.DE did a Golden Cross on 2009-06-15. It lasted for 260 days. It gained 7.87 or 19.51 %.
+--> VOW3.DE did a Golden Cross on 2010-04-07. It lasted for 530 days. It gained 33.93 or 60.09 %.
+--> VOW3.DE did a Golden Cross on 2011-12-19. It lasted for 22 days. It gained 8.73 or 9.11 %.
+--> VOW3.DE did a Golden Cross on 2012-01-11. It lasted for 2 days. It gained -0.25 or -0.24 %.
+--> VOW3.DE did a Golden Cross on 2012-01-20. It lasted for 3 days. It gained 0.0 or 0.0 %.
+--> VOW3.DE did a Golden Cross on 2012-01-24. It lasted for 468 days. It gained 23.7 or 20.94 %.
+--> VOW3.DE did a Golden Cross on 2013-06-28. It lasted for 405 days. It gained 12.87 or 9.49 %.
+--> VOW3.DE did a Golden Cross on 2015-01-19. It lasted for 203 days. It gained 2.09 or 1.22 %.
+--> VOW3.DE did a Golden Cross on 2016-05-27. It lasted for 441 days. It gained -5.7 or -4.52 %.
+--> VOW3.DE did a Golden Cross on 2017-10-31. It lasted for 253 days. It gained -9.26 or -6.28 %.
+- - - - - - - - - - - - - - - - - - 
+--> VOW3.DEGolden Cross Occurrences: 11
+--> VOW3.DE Total gains: -8.72 MU 
+--> VOW3.DE Average gain: -0.79 MU | StdDev: 28.56
+--> VOW3.DE Average gain in percent: 3.26 % | StdDev: 30.07
+--> VOW3.DE Average duration: -132.27 days | StdDev: 1249.62
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> VNA.DE did a Golden Cross on 2019-03-19. It lasted for -1133 days. It gained -54.44 or -38.05 %.
+--> VNA.DE did a Golden Cross on 2016-03-23. It lasted for 254 days. It gained -0.75 or -2.73 %.
+- - - - - - - - - - - - - - - - - - 
+--> VNA.DEGolden Cross Occurrences: 2
+--> VNA.DE Total gains: -55.2 MU 
+--> VNA.DE Average gain: -27.6 MU | StdDev: 26.85
+--> VNA.DE Average gain in percent: -20.39 % | StdDev: 17.66
+--> VNA.DE Average duration: -439.5 days | StdDev: 693.5
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+--> WDI.DE did a Golden Cross on 2017-04-10. It lasted for -3101 days. It gained -30.88 or -100.0 %.
+--> WDI.DE did a Golden Cross on 2009-05-07. It lasted for 344 days. It gained 1.26 or 21.32 %.
+--> WDI.DE did a Golden Cross on 2010-09-14. It lasted for 366 days. It gained 1.96 or 21.18 %.
+--> WDI.DE did a Golden Cross on 2011-12-29. It lasted for 964 days. It gained 16.18 or 134.28 %.
+--> WDI.DE did a Golden Cross on 2014-12-05. It lasted for 238 days. It gained 0.04 or 0.1 %.
+--> WDI.DE did a Golden Cross on 2015-10-12. It lasted for 158 days. It gained -9.81 or -23.29 %.
+--> WDI.DE did a Golden Cross on 2016-08-26. It lasted for 854 days. It gained 89.81 or 209.75 %.
+--> WDI.DE did a Golden Cross on 2019-06-27. It lasted for 141 days. It gained -26.8 or -18.01 %.
+- - - - - - - - - - - - - - - - - - 
+--> WDI.DEGolden Cross Occurrences: 8
+--> WDI.DE Total gains: 41.76 MU 
+--> WDI.DE Average gain: 5.22 MU | StdDev: 35.15
+--> WDI.DE Average gain in percent: 30.67 % | StdDev: 91.02
+--> WDI.DE Average duration: -4.5 days | StdDev: 1205.63
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - 
