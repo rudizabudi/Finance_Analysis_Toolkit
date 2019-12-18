@@ -23,8 +23,8 @@ while True:
         gd.get_data(symbols)
 
     if trigger_one == 3:
-        selection, path = dc.select_data()
-        dc.compile_data(selection, path)
+        compile_type, path, selection = dc.select_data()
+        dc.compile_data(compile_type, path, selection)
 
     if trigger_one == 4:
         ans.select_analysis()

@@ -7,114 +7,170 @@ from datetime import datetime
 def select_data():
 
     trigger_one = ''
-    print('--> 1 : Use intraday data.')
-    print('--> 2 : Use historic data.')
-    while trigger_one != 1 and trigger_one != 2 :
-        trigger_one = int(input('Select which data type to use by index: '))
+    print('--> 1 : Compile single dataset.')
+    print('--> 2 : Compile list of datasets jointly.')
+    print('--> 3 : Compile list of datasets individually.')
+    while trigger_one not in range(1,3+1):
+        trigger_one = int(input('Select how to compile by index: '))
 
     if trigger_one == 1:
-        path = 'intraday\\'
-        contents = os.listdir(os.getcwd() + '\\Price_Data\\intraday')
-        i = 0
-        for file in contents:
-                print('--> ' + str(i) + ' : ' + file)
-                i += 1
+        compile_type = 'single'
+    elif trigger_one == 2:
+        compile_type = 'jointly'
+    elif trigger_one == 3:
+        compile_type = 'individually'
 
-        trigger_two = ''
-        while trigger_two not in range(0,i):
-            trigger_two = int(input('Select which interval to use by index: '))
+    trigger_two = ''
+    print('--> 1 : Use intraday data.')
+    print('--> 2 : Use historic data.')
+    print('--> 3 : Use custom path to data.')
+    while trigger_two not in range(1,3+1):
+        trigger_two = int(input('Select which data to use by index: '))
 
-        path = 'intraday\\' + contents[trigger_two] + '\\'
+    path_found = False
+    selection = ''
 
-        contents = os.listdir(os.getcwd() + '\\Price_Data\\intraday\\' + contents[trigger_two])
-        i = 0
-        for file in contents:
-            print('--> ' + str(i) + ' : ' + file)
-            i += 1
+    if trigger_two == 1:
+        path = '\\Price_Data\\intraday\\'
+    elif trigger_two == 2:
+        path = '\\Price_Data\\historic\\'
+    elif trigger_two == 3:
+        while path_found == False:
+            path = input('Enter full path to folder or single .csv: ')
+            if os.path.exists(path):
+                path_found = True
 
-        trigger_three = ''
-        while trigger_three not in range(0, i):
-            trigger_three = int(input('Select which data to use by index: '))
+    if trigger_two == 1 or trigger_two == 2:
+        while not path_found:
+            contents = os.listdir(os.getcwd() + '\\' + path)
+            j = 0
+            for file in contents:
+                if '.csv' in file:
+                    j += 1
+            if j > 0.8 * len(contents):
+                if trigger_one > 1:
+                    path_found = True
+                elif trigger_one == 1:
+                    for i, file in enumerate(contents, start=1):
+                        print('--> ' + str(i) + ' : ' + file)
+                    trigger_three = 0
+                    while trigger_three not in range(1, len(contents)+1):
+                        trigger_three = int(input('Select path by index: '))
+                    selection = contents[trigger_three-1]
+                    path_found = True
+            else:
+                trigger_three = 0
+                for i, file in enumerate(contents, start=1):
+                    print('--> ' + str(i) + ' : ' + file)
+                while trigger_three not in range(1, len(contents) +1 ):
+                    trigger_three = int(input('Select path by index: '))
+                path = path + contents[trigger_three-1] + '\\'
 
-        selection = contents[trigger_three]
-        return selection, path
+        path = os.getcwd() + path
+
+    return compile_type, path, selection
+
+def compile_data(compile_type, path, selection):
+    # Standard Format: Alpha Vantage
+    drop_columns = True
+    trigger_zero = 0
+
+    if compile_type == 'single':
+        decision = ''
+        while decision != 'n' and decision != 'y':
+            decision = input('Do you want to drop columns? (y/n) ')
+        if decision == 'n':
+            drop_columns = False
+
+    if drop_columns:
+        datasets = ['Open', 'Close', 'High', 'Low', 'Volume']
+        for i, set in enumerate(datasets):
+            print('--> ' + str(i) + ' : ' + str(set) + '.')
+
+        trigger_one = -1
+        while trigger_one not in range(1,5):
+            trigger_one = int(input('Select dataset for dataframe to keep: '))
+
+        selected_set = datasets[trigger_one]
+        datasets.remove(selected_set)
+
+    if compile_type == 'single':
+        import_df = pd.read_csv(path + selection)
+        import_df = pd.DataFrame(import_df)
+        for column in import_df.columns.values:
+            # alpha vantage
+            if column == 'date':
+                import_df.rename(columns={'date': 'Date', '1. open': 'Open', '2. high': 'High', '3. low': 'Low', '4. close': 'Close', '5. volume': 'Volume'}, inplace=True)
+            # yahoo fianance
+            elif column == 'Date':
+                import_df.drop('Close', 1, inplace=True)
+                import_df.rename(columns={'Adj Close': 'Close'}, inplace=True)
+
+        import_df.set_index('Date', inplace=True)
+
+        if drop_columns == True:
+            for set in datasets:
+                import_df.drop(set, 1, inplace=True)
+
+        save_path = path.replace('Price_Data', 'Compiled_Data')
+        if selection == '':
+            save_path = os.getcwd() + '\\Compiled_Data\\individual\\'
+            selection = path[path.rindex('\\')+1:]
+        if not os.path.exists(save_path):
+            os.makedirs(save_path)
+
+        import_df.to_csv(save_path + selection)
 
 
-    if trigger_one == 2:
-        path = 'historic\\'
+    elif compile_type == 'jointly' or compile_type == 'individually':
+        contents = os.listdir(path)
+        df = []
+        df = pd.DataFrame(df)
 
-        contents = os.listdir(os.getcwd() + '\\Price_Data\\historic')
-        i = 0
-        for file in contents:
-                print('--> ' + str(i) + ' : ' + file)
-                i += 1
+        save_path = path.replace('Price_Data', 'Compiled_Data')
+        if compile_type == 'jointly':
+            save_path = save_path + 'Joined' + '\\'
+        elif compile_type == 'individually':
+            save_path = save_path + 'Individual' + '\\'
+        if not os.path.exists(save_path):
+            os.makedirs(save_path)
 
-        trigger_two = ''
-        while trigger_two not in range(0, i):
-            trigger_two = int(input('Select which data to use by index: '))
+        for i, file in enumerate(contents):
+            import_df = pd.read_csv(path + file)
 
-        selection = contents[trigger_two]
+            for column in import_df.columns.values:
 
-    return selection, path
+                # alpha vantage
+                if column == 'date':
+                    import_df.rename(columns={'date': 'Date', '1. open': 'Open', '2. high': 'High', '3. low': 'Low', '4. close': 'Close', '5. volume': 'Volume'}, inplace=True)
+                #yahoo fianance
+                elif column == 'Date':
+                    import_df.drop('Close', 1, inplace=True)
+                    import_df.rename(columns={'Adj Close': 'Close'}, inplace=True)
 
-def compile_data(selection, path):
-
-    trigger_one = -1
-    datasets = ['Open', 'Close', 'High', 'Low', 'Volume']
-    for i, set in enumerate(datasets):
-        print('--> ' + str(i) + ' : ' + str(set) + '.')
-
-    while trigger_one not in range(1,5):
-        trigger_one = int(input('Select dataset for dataframe: '))
-
-    selected_set = datasets[trigger_one]
-    datasets.remove(selected_set)
-
-    with open(os.getcwd() + '\\Stock_Symbol_List\\' + selection +'.pickle',"rb") as f:
-        tickers = pickle.load(f)
-
-    main_df = pd.DataFrame
-
-    i = 0
-    for count, ticker in enumerate(tickers):
-        if ticker.count('.') == 2:
-            ticker = ticker.replace('.', '-', 1)
-            print(ticker)
-
-        if os.path.isfile(os.getcwd() + '\\Price_Data\\' + path + selection + '\\' + ticker + '.csv'):
-            df = pd.read_csv(os.getcwd() + '\\Price_Data\\' + path + selection + '\\' + ticker + '.csv')
-            if 'date' in df:
-                df.rename(columns={'date': 'Date', '1. open': 'Open', '2. high': 'High', '3. low': 'Low', '4. close': 'Close', '5. volume': 'Volume'}, inplace=True)
-            elif 'Date' in df:
-                df.drop('Close', 1, inplace=True)
-                df.rename(columns= {'Adj Close': 'Close'}, inplace = True)
-
-            df.set_index('Date', inplace=True)
+            import_df.set_index('Date', inplace=True)
 
             for set in datasets:
-                df.drop(set, 1, inplace = True)
-            df.rename(columns={selected_set: ticker}, inplace=True)
+                import_df.drop(set, 1, inplace = True)
 
-            if main_df.empty:
-                main_df = df
-            else:
-                main_df = main_df.join(df, how='outer')
-        else:
-            print('Error: ' + ticker + ' not found')
+            import_df.rename(columns={selected_set: file[:file.index('.csv')]}, inplace=True)
 
-        sys.stdout.write('\r')
-        ticks = int(round(count / (int(len(tickers)) / 20), 0))
-        sys.stdout.write("[%-20s] %d%%" % ('=' * ticks, (count + 1) * (100 / (int(len(tickers))))))
-        sys.stdout.flush()
+            if compile_type == 'individually':
+                import_df.to_csv(save_path + 'Individual' + file + '.csv')
+            if compile_type == 'jointly':
+                if df.empty:
+                    df = import_df
+                else:
+                    df = df.join(import_df, how='outer')
 
-    entries = count - i + 1
-    print('\n--> ' + str(entries) +' / ' + str(len(tickers)) + ' entries loaded.')
+            sys.stdout.write('\r')
+            ticks = int(round(i / (int(len(contents)) / 20), 0))
+            sys.stdout.write("[%-20s] %d%%" % ('=' * ticks, (i + 1) * (100 / (int(len(contents))))))
+            sys.stdout.flush()
 
+        if compile_type == 'jointly':
+            df.fillna(0, inplace=True)
+            df.to_csv(save_path + 'Joined' + '.csv')
 
-    if not os.path.exists(os.getcwd() + '\\Compiled_Data\\' + path + '\\' + selection):
-        os.makedirs(os.getcwd() + '\\Compiled_Data\\' + path + '\\' + selection)
-
-
-    main_df.to_csv(os.getcwd() + '\\Compiled_Data\\' + path + '\\' + selection + '\\' + 'Dataset_Joined' + selected_set + '_' + datetime.now().strftime("%d.%m.%Y") + '.csv')
     print('--> Compiled dataframe created!')
-    print('--> Path: '+ os.getcwd() + '\\Compiled_Data\\' + path + '\\' + selection + '\\' + 'Dataset_Joined' + selected_set + datetime.now().strftime("%d.%m.%Y") + '.csv')
+    print('--> Path: '+ str(save_path))
