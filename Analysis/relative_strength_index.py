@@ -4,6 +4,7 @@ import os
 from pandas.core.common import SettingWithCopyWarning
 import warnings
 import sys
+from datetime import datetime
 
 
 def create_RSI(path, selection):
@@ -122,4 +123,4 @@ def create_RSI(path, selection):
     df.to_csv(os.getcwd() + save_path + selection[:-4] + '_RSI' + '.csv')
 
     print('\n--> Table successfully created!')
-    print('--> Path: ' + str(os.getcwd() + save_path + selection[:-4] + '_RSI' + '.csv'))
+    print('--> Path: ' + str(os.getcwd() + save_path + selection[:-4] + '_RSI' + '_' + datetime.now().strftime("%d.%m.%Y") +'.csv'))
