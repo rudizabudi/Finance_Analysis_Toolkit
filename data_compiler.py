@@ -14,11 +14,11 @@ def select_data():
         trigger_one = int(input('Select how to compile by index: '))
 
     if trigger_one == 1:
-        compile_type = 'single'
+        compile_type = 'Single'
     elif trigger_one == 2:
-        compile_type = 'jointly'
+        compile_type = 'Joined'
     elif trigger_one == 3:
-        compile_type = 'individually'
+        compile_type = 'Individual'
 
     trigger_two = ''
     print('--> 1 : Use intraday data.')
@@ -73,9 +73,8 @@ def select_data():
 def compile_data(compile_type, path, selection):
     # Standard Format: Alpha Vantage
     drop_columns = True
-    trigger_zero = 0
 
-    if compile_type == 'single':
+    if compile_type == 'Single':
         decision = ''
         while decision != 'n' and decision != 'y':
             decision = input('Do you want to drop columns? (y/n) ')
@@ -94,7 +93,7 @@ def compile_data(compile_type, path, selection):
         selected_set = datasets[trigger_one]
         datasets.remove(selected_set)
 
-    if compile_type == 'single':
+    if compile_type == 'Single':
         import_df = pd.read_csv(path + selection)
         import_df = pd.DataFrame(import_df)
         for column in import_df.columns.values:
@@ -112,25 +111,26 @@ def compile_data(compile_type, path, selection):
             for set in datasets:
                 import_df.drop(set, 1, inplace=True)
 
-        save_path = path.replace('Price_Data', 'Compiled_Data')
-        if selection == '':
-            save_path = os.getcwd() + '\\Compiled_Data\\individual\\'
-            selection = path[path.rindex('\\')+1:]
+        save_path = path.replace('Price_Data', 'Compiled_Data') + compile_type + '\\'
+        # if selection == '':
+        #     save_path = os.getcwd() + '\\Compiled_Data\\individual\\'
+        #     selection = path[path.rindex('\\')+1:]
         if not os.path.exists(save_path):
             os.makedirs(save_path)
 
+        print(save_path + selection)
         import_df.to_csv(save_path + selection)
 
 
-    elif compile_type == 'jointly' or compile_type == 'individually':
+    elif compile_type == 'Joined' or compile_type == 'Individual':
         contents = os.listdir(path)
         df = []
         df = pd.DataFrame(df)
 
         save_path = path.replace('Price_Data', 'Compiled_Data')
-        if compile_type == 'jointly':
+        if compile_type == 'Joined':
             save_path = save_path + 'Joined' + '\\'
-        elif compile_type == 'individually':
+        elif compile_type == 'Individual':
             save_path = save_path + 'Individual' + '\\'
         if not os.path.exists(save_path):
             os.makedirs(save_path)
@@ -155,9 +155,9 @@ def compile_data(compile_type, path, selection):
 
             import_df.rename(columns={selected_set: file[:file.index('.csv')]}, inplace=True)
 
-            if compile_type == 'individually':
-                import_df.to_csv(save_path + 'Individual' + file + '.csv')
-            if compile_type == 'jointly':
+            if compile_type == 'Individual':
+                import_df.to_csv(save_path + 'Individual\\' + file + '.csv')
+            if compile_type == 'Joined':
                 if df.empty:
                     df = import_df
                 else:
@@ -168,7 +168,7 @@ def compile_data(compile_type, path, selection):
             sys.stdout.write("[%-20s] %d%%" % ('=' * ticks, (i + 1) * (100 / (int(len(contents))))))
             sys.stdout.flush()
 
-        if compile_type == 'jointly':
+        if compile_type == 'Joined':
             df.fillna(0, inplace=True)
             df.to_csv(save_path + 'Joined' + '.csv')
 

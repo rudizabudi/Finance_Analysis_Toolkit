@@ -1,8 +1,9 @@
 Compiled_Data
 Old_Stuff
 Price_Data
-test.py
-test2.py
-test3.py
-test4.py
+../Tests/test.py
+../Tests/test2.py
+../Tests/test3.py
+../Tests/test4.py
 alpha_vantage_keys.txt
+todo.txt
