@@ -47,8 +47,14 @@ def select_data(type, analysis):
 
     if analysis == 'GB_Cross':
         gbc.GB_Cross(path, selection)
-    elif analysis == 'RSI':
+    elif analysis == 'RSI_Create':
         rsi.create_RSI(path, selection)
+    elif analysis == 'RSI_Analyse':
+        if '_RSI' in selection:
+            rsi.analyse_RSI(path, selection)
+        else:
+            print('--> ERROR: No RSI Table selected!')
+            select_data(type, analysis)
 
 
 

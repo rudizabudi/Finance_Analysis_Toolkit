@@ -42,6 +42,8 @@ def create_RSI(path, selection):
     for item in addlist:
         periods.append(item)
 
+    periods.sort()
+
     df = pd.DataFrame(df)
     gains = []
     losses = []
@@ -123,4 +125,173 @@ def create_RSI(path, selection):
     df.to_csv(os.getcwd() + save_path + selection[:-4] + '_RSI' + '.csv')
 
     print('\n--> Table successfully created!')
-    print('--> Path: ' + str(os.getcwd() + save_path + selection[:-4] + '_RSI' + '_' + datetime.now().strftime("%d.%m.%Y") +'.csv'))
+    print('--> Path: ' + str(os.getcwd() + save_path + selection[:-4] + '_RSI' + '_' + datetime.now().strftime("%d.%m.%Y") + '.csv'))
+
+
+def analyse_RSI(path, selection):
+    np.seterr(all='ignore')
+    df = pd.read_csv(os.getcwd() + path + selection)
+
+    df = pd.DataFrame(df)
+
+    lower_tresholds = []
+    input_lower = input('Enter Lower Treshold to brute: (eg. 8-35): ')
+    #backtest single input with timeframes
+    lower_range = input_lower.split('-')
+    for i in range(int(lower_range[0]), int(lower_range[1]) + 1):
+        lower_tresholds.append(i)
+
+    upper_tresholds = []
+    input_upper = input('Enter Upper Treshold to brute: (eg. 8-35): ')
+    upper_range = input_upper.split('-')
+    for i in range(int(upper_range[0]), int(upper_range[1]) + 1):
+        upper_tresholds.append(i)
+
+    count = 0
+    for column in df.columns.values:
+        if column == 'Close':
+            single_stock = True
+        if 'RSI-' in column:
+            count += 1
+
+
+    if single_stock and count > 1:
+        all_rsi = []
+        for column in df.columns.values:
+            if 'RSI-' in column:
+                all_rsi.append(column)
+        print('--> 0 : Analyse all')
+        for i, rsi in enumerate(all_rsi, start=1):
+            print('--> ' + str(i) + ' : ' + rsi)
+        choices = input('Select which RSI to use by index (eg. 1,3,5): ')
+        choices = choices.split(',')
+        selected_columns = []
+        for choice in choices:
+            selected_columns.append(all_rsi[(int(choice) - 1)])
+        count = len(selected_columns)
+
+    name = selection[:selection.index('_RSI')]
+
+
+    tick = count * (int(lower_range[1]) - int(lower_range[0]) + 1) * (int(upper_range[1]) - int(upper_range[0]) + 1)
+    count = 0
+
+    results = []
+    in_trade = False
+    trade_done = False
+    msg_list = []
+    best_performance = 0
+
+    for column in df.columns.values:
+        single_multi_checker = True
+        if not single_stock and column != 'Date' and 'RSI-' not in column:
+            name = column
+        if single_stock and column not in selected_columns:
+            single_multi_checker = False
+
+        filename = name + '_RSI-Analysis_' + str(lower_tresholds[0]) + str(lower_tresholds[len(lower_tresholds) - 1]) + '-' + str(upper_tresholds[0]) + str(
+            upper_tresholds[len(upper_tresholds) - 1]) + '_' + datetime.now().strftime("%d.%m.%Y")
+
+        if 'RSI-' in column and single_multi_checker:
+            for lower_treshold in lower_tresholds:
+                for upper_treshold in upper_tresholds:
+                    results.clear()
+                    in_trade = False
+                    for i, row in enumerate(df.iterrows()):
+                        old_rsi = df[column].iloc[i - 1]
+                        new_rsi = df[column].iloc[i]
+                        if old_rsi < lower_treshold < new_rsi and not in_trade:
+                            in_trade = True
+                            if single_stock == True:
+                                in_price = df['Close'].iloc[i]
+                            elif single_stock == False:
+                                reference_name = str(column[:column.index('_')])
+                                in_price = df[reference_name].iloc[i]
+                        if old_rsi < upper_treshold < new_rsi and in_trade:
+                            in_trade = False
+                            trade_done = True
+                            if single_stock == True:
+                                out_price = df['Close'].iloc[i]
+                            elif single_stock == False:
+                                reference_name = str(column[:column.index('_')])
+                                out_price = df[reference_name].iloc[i]
+                        if old_rsi > lower_treshold > new_rsi and in_trade:
+                            in_trade = False
+                            trade_done = True
+                            out_price = df['Close'].iloc[i]
+                            if single_stock == True:
+                                out_price = df['Close'].iloc[i]
+                            elif single_stock == False:
+                                reference_name = str(column[:column.index('_')])
+                                out_price = df[reference_name].iloc[i]
+
+                        if not in_trade and trade_done:
+                            result = out_price - in_price
+                            results.append(result)
+                            trade_done = False
+
+                    if len(results) != 0:
+                        total_performance = np.sum(results)
+                        avg_performance = np.sum(results) / len(results)
+                        std_dev = np.std(results)
+                    else:
+                        total_performance = 0
+                        avg_performance = 0
+                        std_dev = 0
+
+                    message = '--> ' + str(name) + ' did ' + str(round(len(results), 2)) + ' trades with ' + str(round(lower_treshold, 2)) + ' / ' + str(round(upper_treshold, 2)) + '. Total performance: ' + str(round(total_performance, 2)) + '; Avg. performance: ' + str(round(avg_performance, 2)) + '; StdDev: ' + str(round(std_dev , 2)) + ' .'
+                    msg_list.append(message + '\n')
+
+                    if total_performance > best_performance:
+                        best_performance = total_performance
+                        best_avg_performance = avg_performance
+                        best_std_dev = std_dev
+                        best_lower = lower_treshold
+                        best_upper = upper_treshold
+                        best_number = len(results)
+
+                    sys.stdout.write('\r')
+                    count += 1
+                    ticks = int(round(count / (int(tick) / 20), 0))
+                    sys.stdout.write("[%-20s] %d%%" % ('=' * ticks, count * (100 / (int(tick)))))
+                    sys.stdout.flush()
+
+            if (single_stock and len(selected_columns) > 1) or not single_stock:
+                path = os.getcwd() + '\\Analysis_Results\\' + filename
+                if not os.path.exists(path):
+                    os.makedirs(path)
+                if single_stock:
+                    results_file = open(path + '\\' + filename + '.txt', 'a')
+            elif single_stock and len(selected_columns) == 1:
+                path = os.getcwd() + '\\Analysis_Results'
+                results_file = open(path + '\\' + filename + '.txt', 'a')
+
+            header = []
+            header.append('--> BEST LOWER AND UPPER TRESHOLD: ' + str(best_lower) + ' / ' + str(best_upper) + '\n')
+            header.append('--> Total Performance: ' + str(round(best_performance, 2)) + '\n')
+            header.append('--> Average Performance: ' + str(round(best_avg_performance, 2)) + '\n')
+            header.append('--> Standard Deviation: ' + str(round(best_std_dev, 2)) + '\n')
+            header.append('--> Number of Occurences: ' + str(round(best_number, 2)) + '\n')
+            header.append('- # - # - # - # - # - # - # - # - # ' + '\n')
+
+            for line in header:
+                results_file.write(line)
+            for line in msg_list:
+                results_file.write(line)
+
+            results_file.close()
+
+    print('\n--> Analysis successfully finished!')
+    if (single_stock and len(selected_columns) > 1) or not single_stock:
+        print('--> Results saved in ' + path + '\n')
+    elif single_stock and len(selected_columns) == 1:
+        print('--> Result saved as ' + path + '\\' + filename + '.txt' + '\n')
+
+
+
+
+
+
+
+
+

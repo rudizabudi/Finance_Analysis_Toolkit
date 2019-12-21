@@ -114,7 +114,7 @@ def GB_Cross(path, selection):
                         absolute_gain = -1 * absolute_gain
                     percentage_list.append(percentage_gain)
                     absolute_list.append(absolute_gain)
-                    message = '-->' + analysis + ' on ' + str(index_old) + '. It lasted for ' + str(time.days) + ' days. It gained ' + str(absolute_gain) + ' or ' + str(percentage_gain) + ' %.'
+                    message = '--> ' + analysis + ' on ' + str(index_old) + '. It lasted for ' + str(time.days) + ' days. It gained ' + str(absolute_gain) + ' or ' + str(percentage_gain) + ' %.'
                     results.write(message + '\n')
                     print(message)
 
