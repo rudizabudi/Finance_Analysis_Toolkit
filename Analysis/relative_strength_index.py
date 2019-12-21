@@ -5,6 +5,7 @@ from pandas.core.common import SettingWithCopyWarning
 import warnings
 import sys
 from datetime import datetime
+import datetime as dt
 
 
 def create_RSI(path, selection):
@@ -128,7 +129,7 @@ def create_RSI(path, selection):
     print('--> Path: ' + str(os.getcwd() + save_path + selection[:-4] + '_RSI' + '_' + datetime.now().strftime("%d.%m.%Y") + '.csv'))
 
 
-def analyse_RSI(path, selection):
+def analyse_RSI(path, selection,):
     np.seterr(all='ignore')
     df = pd.read_csv(os.getcwd() + path + selection)
 
@@ -137,15 +138,25 @@ def analyse_RSI(path, selection):
     lower_tresholds = []
     input_lower = input('Enter Lower Treshold to brute: (eg. 8-35): ')
     #backtest single input with timeframes
-    lower_range = input_lower.split('-')
-    for i in range(int(lower_range[0]), int(lower_range[1]) + 1):
-        lower_tresholds.append(i)
+    if '-' in input_lower:
+        lower_range = input_lower.split('-')
+        for i in range(int(lower_range[0]), int(lower_range[1]) + 1):
+            lower_tresholds.append(i)
+    else:
+        lower_tresholds.append(int(input_lower))
 
     upper_tresholds = []
-    input_upper = input('Enter Upper Treshold to brute: (eg. 8-35): ')
-    upper_range = input_upper.split('-')
-    for i in range(int(upper_range[0]), int(upper_range[1]) + 1):
-        upper_tresholds.append(i)
+    input_upper = input('Enter Upper Treshold to brute: (eg. 14 or 8-35): ')
+    if '-' in input_upper:
+        upper_range = input_upper.split('-')
+        for i in range(int(upper_range[0]), int(upper_range[1]) + 1):
+            upper_tresholds.append(i)
+    else:
+        upper_tresholds.append(int(input_upper))
+
+    single_tresholds = False
+    if len(upper_tresholds) == 1 and len(lower_tresholds) == 1:
+        single_tresholds = True
 
     count = 0
     for column in df.columns.values:
@@ -153,7 +164,6 @@ def analyse_RSI(path, selection):
             single_stock = True
         if 'RSI-' in column:
             count += 1
-
 
     if single_stock and count > 1:
         all_rsi = []
@@ -172,16 +182,16 @@ def analyse_RSI(path, selection):
 
     name = selection[:selection.index('_RSI')]
 
-
-    tick = count * (int(lower_range[1]) - int(lower_range[0]) + 1) * (int(upper_range[1]) - int(upper_range[0]) + 1)
+    if not single_tresholds:
+        tick = count * (int(lower_range[1]) - int(lower_range[0]) + 1) * (int(upper_range[1]) - int(upper_range[0]) + 1)
     count = 0
 
     results = []
-    in_trade = False
     trade_done = False
     msg_list = []
     best_performance = 0
 
+    df.set_index('Date', inplace=True)
     for column in df.columns.values:
         single_multi_checker = True
         if not single_stock and column != 'Date' and 'RSI-' not in column:
@@ -189,8 +199,8 @@ def analyse_RSI(path, selection):
         if single_stock and column not in selected_columns:
             single_multi_checker = False
 
-        filename = name + '_RSI-Analysis_' + str(lower_tresholds[0]) + str(lower_tresholds[len(lower_tresholds) - 1]) + '-' + str(upper_tresholds[0]) + str(
-            upper_tresholds[len(upper_tresholds) - 1]) + '_' + datetime.now().strftime("%d.%m.%Y")
+        if not single_tresholds:
+            filename = name + '_RSI-Analysis_' + str(lower_tresholds[0]) + str(lower_tresholds[len(lower_tresholds) - 1]) + '-' + str(upper_tresholds[0]) + str(upper_tresholds[len(upper_tresholds) - 1]) + '_' + datetime.now().strftime("%d.%m.%Y")
 
         if 'RSI-' in column and single_multi_checker:
             for lower_treshold in lower_tresholds:
@@ -198,37 +208,48 @@ def analyse_RSI(path, selection):
                     results.clear()
                     in_trade = False
                     for i, row in enumerate(df.iterrows()):
-                        old_rsi = df[column].iloc[i - 1]
-                        new_rsi = df[column].iloc[i]
-                        if old_rsi < lower_treshold < new_rsi and not in_trade:
-                            in_trade = True
-                            if single_stock == True:
-                                in_price = df['Close'].iloc[i]
-                            elif single_stock == False:
-                                reference_name = str(column[:column.index('_')])
-                                in_price = df[reference_name].iloc[i]
-                        if old_rsi < upper_treshold < new_rsi and in_trade:
-                            in_trade = False
-                            trade_done = True
-                            if single_stock == True:
+                        if i > int(column[column.index('-')+1:]):
+                            old_rsi = df[column].iloc[i - 1]
+                            new_rsi = df[column].iloc[i]
+                            if old_rsi < lower_treshold < new_rsi and not in_trade:
+                                in_trade = True
+                                if single_stock:
+                                    in_price = df['Close'].iloc[i]
+                                elif not single_stock:
+                                    reference_name = str(column[:column.index('_')])
+                                    in_price = df[reference_name].iloc[i]
+                                if single_tresholds:
+                                    in_time = df.index[i]
+                            if old_rsi < upper_treshold < new_rsi and in_trade:
+                                in_trade = False
+                                trade_done = True
+                                if single_stock:
+                                    out_price = df['Close'].iloc[i]
+                                elif not single_stock:
+                                    reference_name = str(column[:column.index('_')])
+                                    out_price = df[reference_name].iloc[i]
+                                if single_tresholds:
+                                    out_time = df.index[i]
+                            if old_rsi > lower_treshold > new_rsi and in_trade:
+                                in_trade = False
+                                trade_done = True
                                 out_price = df['Close'].iloc[i]
-                            elif single_stock == False:
-                                reference_name = str(column[:column.index('_')])
-                                out_price = df[reference_name].iloc[i]
-                        if old_rsi > lower_treshold > new_rsi and in_trade:
-                            in_trade = False
-                            trade_done = True
-                            out_price = df['Close'].iloc[i]
-                            if single_stock == True:
-                                out_price = df['Close'].iloc[i]
-                            elif single_stock == False:
-                                reference_name = str(column[:column.index('_')])
-                                out_price = df[reference_name].iloc[i]
+                                if single_stock:
+                                    out_price = df['Close'].iloc[i]
+                                elif not single_stock:
+                                    reference_name = str(column[:column.index('_')])
+                                    out_price = df[reference_name].iloc[i]
+                                if single_tresholds:
+                                    out_time = df.index[i]
 
-                        if not in_trade and trade_done:
-                            result = out_price - in_price
-                            results.append(result)
-                            trade_done = False
+                            if not in_trade and trade_done:
+                                result = out_price - in_price
+                                results.append(result)
+                                trade_done = False
+                                if single_tresholds:
+                                    delta_time = dt.datetime.strptime(str(out_time), '%Y-%m-%d') - dt.datetime.strptime(str(in_time), '%Y-%m-%d')
+                                    message = '--> ' + str(name) + ' entered the trade on ' + str(in_time) + ' and left it on ' + str(out_time) + '. Duration: ' + str(delta_time.days) + '; It gained ' + str(round(result, 2)) + '.'
+                                    msg_list.append(message + '\n')
 
                     if len(results) != 0:
                         total_performance = np.sum(results)
@@ -239,46 +260,57 @@ def analyse_RSI(path, selection):
                         avg_performance = 0
                         std_dev = 0
 
-                    message = '--> ' + str(name) + ' did ' + str(round(len(results), 2)) + ' trades with ' + str(round(lower_treshold, 2)) + ' / ' + str(round(upper_treshold, 2)) + '. Total performance: ' + str(round(total_performance, 2)) + '; Avg. performance: ' + str(round(avg_performance, 2)) + '; StdDev: ' + str(round(std_dev , 2)) + ' .'
-                    msg_list.append(message + '\n')
+                    if not single_tresholds:
+                        message = '--> ' + str(name) + ' did ' + str(round(len(results), 2)) + ' trades with ' + str(round(lower_treshold, 2)) + ' / ' + str(round(upper_treshold, 2)) + '. Total performance: ' + str(round(total_performance, 2)) + '; Avg. performance: ' + str(round(avg_performance, 2)) + '; StdDev: ' + str(round(std_dev , 2)) + '.'
+                        msg_list.append(message + '\n')
 
-                    if total_performance > best_performance:
-                        best_performance = total_performance
-                        best_avg_performance = avg_performance
-                        best_std_dev = std_dev
-                        best_lower = lower_treshold
-                        best_upper = upper_treshold
-                        best_number = len(results)
+                        if total_performance > best_performance:
+                            best_performance = total_performance
+                            best_avg_performance = avg_performance
+                            best_std_dev = std_dev
+                            best_lower = lower_treshold
+                            best_upper = upper_treshold
+                            best_number = len(results)
 
-                    sys.stdout.write('\r')
-                    count += 1
-                    ticks = int(round(count / (int(tick) / 20), 0))
-                    sys.stdout.write("[%-20s] %d%%" % ('=' * ticks, count * (100 / (int(tick)))))
-                    sys.stdout.flush()
+                        sys.stdout.write('\r')
+                        count += 1
+                        ticks = int(round(count / (int(tick) / 20), 0))
+                        sys.stdout.write("[%-20s] %d%%" % ('=' * ticks, count * (100 / (int(tick)))))
+                        sys.stdout.flush()
 
             if (single_stock and len(selected_columns) > 1) or not single_stock:
                 path = os.getcwd() + '\\Analysis_Results\\' + filename
                 if not os.path.exists(path):
                     os.makedirs(path)
-                if single_stock:
+                if single_stock and not single_tresholds:
                     results_file = open(path + '\\' + filename + '.txt', 'a')
+            elif single_tresholds:
+                path = os.getcwd() + '\\Analysis_Results'
+                filename = name + '_RSI-Analysis_' + str(lower_tresholds[0]) + '-' + str(upper_tresholds[0]) + '_' + datetime.now().strftime("%d.%m.%Y")
+                results_file = open(path + '\\' + filename + '.txt', 'a')
             elif single_stock and len(selected_columns) == 1:
                 path = os.getcwd() + '\\Analysis_Results'
                 results_file = open(path + '\\' + filename + '.txt', 'a')
 
             header = []
-            header.append('--> BEST LOWER AND UPPER TRESHOLD: ' + str(best_lower) + ' / ' + str(best_upper) + '\n')
-            header.append('--> Total Performance: ' + str(round(best_performance, 2)) + '\n')
-            header.append('--> Average Performance: ' + str(round(best_avg_performance, 2)) + '\n')
-            header.append('--> Standard Deviation: ' + str(round(best_std_dev, 2)) + '\n')
-            header.append('--> Number of Occurences: ' + str(round(best_number, 2)) + '\n')
-            header.append('- # - # - # - # - # - # - # - # - # ' + '\n')
+            if not single_tresholds:
+                header.append('--> BEST LOWER AND UPPER TRESHOLD: ' + str(best_lower) + ' / ' + str(best_upper) + '\n')
+                header.append('--> Total Performance: ' + str(round(best_performance, 2)) + '\n')
+                header.append('--> Average Performance: ' + str(round(best_avg_performance, 2)) + '\n')
+                header.append('--> Standard Deviation: ' + str(round(best_std_dev, 2)) + '\n')
+                header.append('--> Number of Occurences: ' + str(round(best_number, 2)) + '\n')
+                header.append('- # - # - # - # - # - # - # - # - # ' + '\n')
+            else:
+                header.append('--> Total Performance: ' + str(round(total_performance, 2)) + '\n')
+                header.append('--> Average Performance: ' + str(round(avg_performance, 2)) + '\n')
+                header.append('--> Standard Deviation: ' + str(round(std_dev, 2)) + '\n')
+                header.append('--> Number of Occurences: ' + str(round(len(results), 2)) + '\n')
+                header.append('- # - # - # - # - # - # - # - # - # ' + '\n')
 
             for line in header:
                 results_file.write(line)
             for line in msg_list:
                 results_file.write(line)
-
             results_file.close()
 
     print('\n--> Analysis successfully finished!')
@@ -286,12 +318,3 @@ def analyse_RSI(path, selection):
         print('--> Results saved in ' + path + '\n')
     elif single_stock and len(selected_columns) == 1:
         print('--> Result saved as ' + path + '\\' + filename + '.txt' + '\n')
-
-
-
-
-
-
-
-
-

@@ -10,5 +10,7 @@ TODO:
         3.
         add wheighted moving average
 
+        4. normalize to % changes for stddev
+
     correlations / beta
 
