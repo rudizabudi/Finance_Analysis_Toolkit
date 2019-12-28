@@ -170,7 +170,7 @@ def compile_data(compile_type, path, selection):
 
         if compile_type == 'Joined':
             df.fillna(0, inplace=True)
-            df.to_csv(save_path + 'Joined' + '.csv')
+            df.to_csv(save_path + 'Joined_' + datetime.now().strftime("%d.%m.%Y") + '.csv')
 
     print('--> Compiled dataframe created!')
     print('--> Path: '+ str(save_path))

@@ -70,15 +70,15 @@ def get_data(symbols):
                 break
         elif trigger_one == 2 and trigger_two == 2:
             try:
-                # if j != len(tickers) and '.' in ticker:
-                #     for ticker_two in tickers:
-                #         if ticker_two.count('.') >= 1:
-                #             j +=1
-                #
-                # if j != len(tickers) and ticker.count('.') == 1:
-                #     ticker = ticker.replace('.','-')
-                # if j == len(tickers) and ticker.count('.') == 2:
-                #      ticker = ticker.replace('.','-', 1)
+                if j != len(tickers) and '.' in ticker:
+                    for ticker_two in tickers:
+                        if ticker_two.count('.') >= 1:
+                            j +=1
+
+                if j != len(tickers) and ticker.count('.') == 1:
+                    ticker = ticker.replace('.','-')
+                if j == len(tickers) and ticker.count('.') == 2:
+                     ticker = ticker.replace('.','-', 1)
 
                 if ticker.count('.') == 2:
                     ticker = ticker.replace('.','-', 1)

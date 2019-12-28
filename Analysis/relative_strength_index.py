@@ -58,20 +58,24 @@ def create_RSI(path, selection):
     tick = count * len(periods)
     count = 0
 
-    for column in df.columns.values:
+    for k, column in enumerate(df.columns.values, start=1):
         if column not in skip_columns and 'RSI-' not in column:
+            column_index = df.columns.values.tolist().index(column) + 1
+
+            add_index = 0
             for period in periods:
                 if column == 'Close':
                     name = ''
                 else:
                     name = column + '_'
 
-                df[name + 'RSI-' + str(period)] = ''
+                df.insert(column_index + add_index, name + 'RSI-' + str(period), '')
+                add_index += 1
 
                 for i, row in enumerate(df.iterrows(), start=0):
                     if i >= period:
                         relative_strength = 0
-                        if i == period:
+                        if i >= period and 0 not in df[column].iloc[i-period:i].tolist():
                             for j in range(i - period + 1, i + 1):
                                 dif = df[column].iloc[j] - df[column].iloc[j-1]
                                 if dif > 0:
@@ -83,11 +87,12 @@ def create_RSI(path, selection):
                             avg_gain_old = avg_gain
                             avg_loss = -1 * (np.sum(losses) / period)
                             avg_loss_old = avg_loss
-                            relative_strength = avg_gain / avg_loss
+                            if avg_loss != 0:
+                                relative_strength = avg_gain / avg_loss
                             gains.clear()
                             losses.clear()
 
-                        elif i > period:
+                        elif i > period and 0 not in df[column].iloc[i-period:i].tolist():
                             dif = df[column].iloc[i] - df[column].iloc[i - 1]
                             if dif > 0:
                                 gain = dif
@@ -101,9 +106,11 @@ def create_RSI(path, selection):
 
                             avg_gain = (avg_gain_old * (period - 1) + gain) / period
                             avg_loss = (avg_loss_old * (period - 1) + loss) / period
-                            relative_strength = avg_gain / avg_loss
+                            if avg_loss != 0:
+                                relative_strength = avg_gain / avg_loss
                             avg_gain_old = avg_gain
                             avg_loss_old = avg_loss
+
 
                         if avg_loss == 0:
                             relative_strength_index = 100
@@ -123,13 +130,13 @@ def create_RSI(path, selection):
 
     if not os.path.exists(os.getcwd() + save_path):
         os.mkdir(os.getcwd())
-    df.to_csv(os.getcwd() + save_path + selection[:-4] + '_RSI' + '.csv')
+    df.to_csv(os.getcwd() + save_path + selection[:-4] + '_RSI' + '_' + datetime.now().strftime("%d.%m.%Y") + '.csv')
 
     print('\n--> Table successfully created!')
     print('--> Path: ' + str(os.getcwd() + save_path + selection[:-4] + '_RSI' + '_' + datetime.now().strftime("%d.%m.%Y") + '.csv'))
 
 
-def analyse_RSI(path, selection,):
+def analyse_RSI(path, selection):
     np.seterr(all='ignore')
     df = pd.read_csv(os.getcwd() + path + selection)
 
@@ -159,6 +166,7 @@ def analyse_RSI(path, selection,):
         single_tresholds = True
 
     count = 0
+    single_stock = False
     for column in df.columns.values:
         if column == 'Close':
             single_stock = True
@@ -208,7 +216,7 @@ def analyse_RSI(path, selection,):
                     results.clear()
                     in_trade = False
                     for i, row in enumerate(df.iterrows()):
-                        if i > int(column[column.index('-')+1:]):
+                        if i > int(column[column.rindex('-')+1:]):
                             old_rsi = df[column].iloc[i - 1]
                             new_rsi = df[column].iloc[i]
                             if old_rsi < lower_treshold < new_rsi and not in_trade:
@@ -233,7 +241,6 @@ def analyse_RSI(path, selection,):
                             if old_rsi > lower_treshold > new_rsi and in_trade:
                                 in_trade = False
                                 trade_done = True
-                                out_price = df['Close'].iloc[i]
                                 if single_stock:
                                     out_price = df['Close'].iloc[i]
                                 elif not single_stock:
@@ -278,18 +285,31 @@ def analyse_RSI(path, selection,):
                         sys.stdout.write("[%-20s] %d%%" % ('=' * ticks, count * (100 / (int(tick)))))
                         sys.stdout.flush()
 
-            if (single_stock and len(selected_columns) > 1) or not single_stock:
-                path = os.getcwd() + '\\Analysis_Results\\' + filename
+            if single_stock:
+                if len(selected_columns) == 1:
+                    if single_tresholds:
+                        path = os.getcwd() + '\\Analysis_Results\\'
+                        filename = name + '_RSI-Analysis_' + str(lower_tresholds[0]) + '-' + str(upper_tresholds[0]) + '_' + datetime.now().strftime("%d.%m.%Y")
+                        results_file = open(path + '\\' + filename + '.txt', 'a')
+                    elif not single_tresholds:
+                        path = os.getcwd() + '\\Analysis_Results\\' + selection[:selection.index('_RSI')]
+                        if not os.path.exists(path):
+                            os.makedirs(path)
+                        filename = name + '_RSI-Analysis_' + str(lower_treshold) + '-' + str(upper_treshold) + '_' + datetime.now().strftime("%d.%m.%Y")
+                        results_file = open(path + '\\' + filename + '.txt', 'a')
+                elif len(selected_columns) > 1:
+                    path = os.getcwd() + '\\Analysis_Results\\' + selection[:selection.index('_RSI')]
+                    if not os.path.exists(path):
+                        os.makedirs(path)
+                    filename = column + '_RSI-Analysis_' + str(lower_treshold) + '-' + str(upper_treshold) + '_' + datetime.now().strftime("%d.%m.%Y")
+                    results_file = open(path + '\\' + filename + '.txt', 'a')
+
+            elif not single_stock:
+                #todo choose single stock from not single_stock file
+                path = os.getcwd() + '\\Analysis_Results\\' + selection
                 if not os.path.exists(path):
                     os.makedirs(path)
-                if single_stock and not single_tresholds:
-                    results_file = open(path + '\\' + filename + '.txt', 'a')
-            elif single_tresholds:
-                path = os.getcwd() + '\\Analysis_Results'
-                filename = name + '_RSI-Analysis_' + str(lower_tresholds[0]) + '-' + str(upper_tresholds[0]) + '_' + datetime.now().strftime("%d.%m.%Y")
-                results_file = open(path + '\\' + filename + '.txt', 'a')
-            elif single_stock and len(selected_columns) == 1:
-                path = os.getcwd() + '\\Analysis_Results'
+                filename = name + '_RSI-Analysis_' + str(lower_treshold) + '-' + str(upper_treshold) + '_' + datetime.now().strftime("%d.%m.%Y")
                 results_file = open(path + '\\' + filename + '.txt', 'a')
 
             header = []
@@ -311,7 +331,9 @@ def analyse_RSI(path, selection,):
                 results_file.write(line)
             for line in msg_list:
                 results_file.write(line)
+
             results_file.close()
+            msg_list = []
 
     print('\n--> Analysis successfully finished!')
     if (single_stock and len(selected_columns) > 1) or not single_stock:
