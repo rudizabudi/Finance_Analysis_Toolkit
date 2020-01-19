@@ -2,7 +2,7 @@ TODO:
     golden_black_cross.py
         1.
         insert historic or intraday detection after .csv load
-        adapt calculation of crossing duration for writing to consol/results
+            adapt calculation of crossing duration for writing to consol/results
 
         2. (maybe)
         create a brute force loop to determine best ma crossings for single stock/list of stocks

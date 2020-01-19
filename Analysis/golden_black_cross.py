@@ -67,7 +67,7 @@ def GB_Cross(path, selection):
         if slower_ma == 'Simple Moving Average':
             df['MA_' + str(slower_ma)] = df['Close'].rolling(slower_ma).mean()
         elif slower_ma_type == 'Exponential Moving Average':
-            df['MA_' + str(slower_ma)] = df['Close'].ewm(span=slower_ma).mean()
+            df['MA_' + str(slower_ma)] = df['Close'].ewm(span=slower_ma, adjust=False).mean()
 
         percentage_list = []
         absolute_list = []
